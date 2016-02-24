@@ -35,6 +35,3 @@ Kubba, S. (2008) Blueprint Reading: Construction Drawings for the Building Trade
 - Torvalds, L. and Diamond, D. (2001) Just for Fun: The Story of an Accidental Revolutionary. HarperCollins.
 - Vance, A. (2015) Elon Musk: Tesla, Spacex, and the Quest for a Fantastic Future. United States: HarperAudio.
 - Whitehurst, J. (2015) The open organization: Igniting passion and performance. United States: Harvard Business School Press.
-created by Robert Kirkman?; [Charlie Adlard, penciler, inker, Rathburn, cover C.;, gray tones?; Rus Wooton and letterer]. (2010) The walking dead. a continuing story of survival horror. Berkeley, CA: Image Comics.
-story, John Ostrander & Jan Duursema?; script, pencils, J.O., inks, J.D., colors, D.P., letters, B.A., Michael - Heisler?; cover art and Charest, T. (2010) Star Wars Legacy, Volume 3: Claws of the Dragon. 5th edn. United States: Dark Horse Comics,U.S.
-story, John Ostrander and Jan Duuresma?; script, pencils, J.O., inks, J.D., colors, D.P., lettering, B.A., Michael David Thomas?; cover art and Hughes, A. (2007) Star Wars: Legacy: Volume 1: Broken. United States: Dark Horse Comics,U.S.
