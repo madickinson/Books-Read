@@ -1,7 +1,7 @@
 #2015 Books Read
 
 
-- Adams, S. (2013) How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life. London: Penguin Books.
+- Adams, S. (2013) **How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life.** London: Penguin Books.
 - Barry, S. (2004) Paradox of Choice: Why more is less. 1st edn. New York: HarperCollins Publishers.
 - Brand, R. (2014) Revolution. United States: Ballantine Books.
 - Campbell, J. and Moyers, B. (1988) The Power of Myth. 1st edn. New York: Bantam Doubleday Dell Publishing Group.
