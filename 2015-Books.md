@@ -24,13 +24,13 @@ Kubba, S. (2008) *Blueprint Reading: Construction Drawings for the Building Trad
 - Layton, M. and Maurer, R. (2012) *Agile Project Management For Dummies.* 1st edn. United States: Wiley, John & Sons, Incorporated.
 - Mooallem, J. (no date) *Wild Ones: A Sometimes Dismaying, Weirdly Reassuring Story about Looking at People Looking at Animals in America.* United States: Penguin Group (USA).
 - Ostrander, J., Duursema, J. and Stradley, R. (2013) *Star Wars Legacy Volume 2.* United States: Dark Horse Books.
-- Ramsey, D. (2012) *Dave Ramsey’s Complete Guide to Money: The Handbook of Financial Peace University.* United Kingdom: LAMPO GROUP INC.
+- Ramsey, D. (2012) *Dave Ramseyâ€™s Complete Guide to Money: The Handbook of Financial Peace University.* United Kingdom: LAMPO GROUP INC.
 - Richards, C. (2004) *Certain to win: The strategy of john boyd, applied to business.* United States: Xlibris Corp.
-- Robert Kirkman?; [Charlie Adlard, penciler, inker, Rathburn, cover C.; Rus Wooton, Sitterson, letterer A.; and editor]. (2011) *The walking dead. a continuing story of survival horror.* Berkeley, CA: Image Comics.
+- Robert Kirkman; [Charlie Adlard, penciler, inker, Rathburn, cover C.; Rus Wooton, Sitterson, letterer A.; and editor]. (2011) *The walking dead. a continuing story of survival horror.* Berkeley, CA: Image Comics.
 - Rousey, R. (2015) *My Fight / Your Fight.* United States: Regan Arts.
 - Russell, T. (2010) *A renegade history of the United States.* United States: Simon Spotlight Entertainment.
-- Schultz, D. (2014) *Evans Carlson, Marine Raider: The Man Who Commanded America’s First Special Forces.* United States: Westholme Publishing, U.S.
-- Sniechowski, J. and Sherven, J. (2005) *The smart couple’s guide to the wedding of your dreams: planning together for less stress and more joy.* United States: New World Library.
+- Schultz, D. (2014) *Evans Carlson, Marine Raider: The Man Who Commanded Americaâ€™s First Special Forces.* United States: Westholme Publishing, U.S.
+- Sniechowski, J. and Sherven, J. (2005) *The smart coupleâ€™s guide to the wedding of your dreams: planning together for less stress and more joy.* United States: New World Library.
 - Sudo, P.T. and Sudo, T. (2001) *Zen computer.* 1st edn. New York: Simon & Schuster.
 - Torvalds, L. and Diamond, D. (2001) *Just for Fun: The Story of an Accidental Revolutionary.* HarperCollins.
 - Vance, A. (2015) *Elon Musk: Tesla, Spacex, and the Quest for a Fantastic Future.* United States: HarperAudio.
