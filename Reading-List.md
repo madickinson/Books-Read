@@ -13,6 +13,8 @@
 
 - Anatomy of a Soldier 
 
+- The Secret Language of Churches & Cathedrals: Decoding the Sacred Symbolism of Christianity's Holy Buildings
+
 
 ##Fiction
 
