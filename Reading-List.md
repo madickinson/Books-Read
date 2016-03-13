@@ -9,6 +9,10 @@
 
 - Kaufman, Hanshi Steve. *Martial Artist’s Book of Five Rings* by Hanshi Steve Kaufman (1994) Paperback. Tuttle Publishing, 1600. Print.
 
+- All The Kremlins Men
+
+- Anatomy of a Soldier 
+
 
 ##Fiction
 
