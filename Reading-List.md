@@ -1,4 +1,4 @@
-#Reading List
+﻿#Reading List
 
 ##Non-Fiction
 - Karma-gli-pa, Padma Sambhava, Gyurme Dorje, Graham Coleman, Thupten Jinpa, and Bstan-'dzin-rgya-mtsho. *The Tibetan Book of the Dead [English Title]: The Great Liberation by Hearing in the Intermediate States [Tibetan Title].* New York: Penguin, 2007.
@@ -9,13 +9,23 @@
 
 - Kaufman, Hanshi Steve. *Martial Artist’s Book of Five Rings* by Hanshi Steve Kaufman (1994) Paperback. Tuttle Publishing, 1600. Print.
 
-- All The Kremlins Men
+- Zygar, Mikhail. *All the Kremlin’s Men: Inside the Court of Vladimir Putin.* S.l.: PublicAffairs, 2016. Print.
 
-- Anatomy of a Soldier 
 
-- The Secret Language of Churches & Cathedrals: Decoding the Sacred Symbolism of Christianity's Holy Buildings
+- *Anatomy of a Soldier.* Export - Airside ed edition. Place of publication not identified: Faber & Faber Fiction, 2016. Print.
+ 
+
+- Stemp, Richard. *The Secret Language of Churches & Cathedrals: Decoding the Sacred Symbolism of Christianity’s Holy Buildings.* London, U.K.; New York, NY: Duncan Baird, 2010. Print.
+
+
+
+- Klein, Gary. *Sources of Power: How People Make Decisions.* Revised ed. edition. The MIT Press, 1999. Print.
+
+
+- Ph.D, Gary Klein. *Intuition at Work: Why Developing Your Gut Instincts Will Make You Better at What You Do.* 1 edition. New York: Doubleday Business, 2002. Print.
 
 
 ##Fiction
 
-- Don Quixote
+- Cervantes, Miguel de. *Don Quixote (illustrated & Annotated)* - The Unabridged Classic Ormsby Translation Fully Illustrated by Gustave Doré. Trans. John Ormsby. e-artnow Editions, 2013. Print.
+
