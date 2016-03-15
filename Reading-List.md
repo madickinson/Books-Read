@@ -23,6 +23,8 @@
 
 - Ash, Mel. *The Zen of Recovery.* 1 edition. New York, NY: TarcherPerigee, 1993. Print.
 
+- Tzu, S. (1971) The art of war (Samuel Griffith translation). London: Oxford University Press.
+
 
 ##Fiction
 
