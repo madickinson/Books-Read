@@ -23,7 +23,10 @@
 
 - Ash, Mel. *The Zen of Recovery.* 1 edition. New York, NY: TarcherPerigee, 1993. Print.
 
-- Tzu, S. (1971) The art of war (Samuel Griffith translation). London: Oxford University Press.
+- Tzu, S. (1971) *The Art of War (Samuel Griffith translation).* London: Oxford University Press.
+
+- Senge, Peter M. *The Fifth Discipline: The Art & Practice of The Learning Organization.* Revised & Updated edition. New York: Doubleday, 2006. Print.
+
 
 
 ##Fiction
