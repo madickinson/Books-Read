@@ -18,11 +18,7 @@
 - Saidy, Anthony. *The March of Chess Ideas: How the Century’s Greatest Players Have Waged the War Over Chess Strategy.* Rev Sub edition. New York: Random House Puzzles & Games, 1994. Print.
 - Feynman, Richard P., Robert B. Leighton, and Matthew Sands. *Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher.* 4 edition. Basic Books, 2011. Print.
 - Frankl, Viktor E., William J. Winslade, and Harold S. Kushner. *Man’s Search for Meaning.* 1 edition. Beacon Press, 2006. Print.
-
-
 - Gruver, Gary, Tommy Mouser, and Gene Kim. *Leading the Transformation: Applying Agile and DevOps Principles at Scale.* IT Revolution Press, 2015. Print.
-
-
 - Kim, Gene, Kevin Behr, and George Spafford. *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win.* 1st edition. IT Revolution Press, 2013. Print.
 
 
