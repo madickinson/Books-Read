@@ -5,7 +5,6 @@
 - Kirkman, R. (2015) The walking dead: Life and death: Volume 24. United States: Image Comics.
 - Newport, C. (2016) *Deep work: Rules for focused success in a distracted world.* United States: Grand Central Publishing.
 - Olen, Helaine, and Harold Pollack. *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated.* 1 edition. New York, New York: Portfolio, 2016. Print.
-
 - Pressfield, S. (2005) *Gates of fire: An epic novel of the battle of Thermopylae.* New York: Random House.
 
 
