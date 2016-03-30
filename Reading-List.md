@@ -20,8 +20,11 @@
 - Frankl, Viktor E., William J. Winslade, and Harold S. Kushner. *Man’s Search for Meaning.* 1 edition. Beacon Press, 2006. Print.
 - Gruver, Gary, Tommy Mouser, and Gene Kim. *Leading the Transformation: Applying Agile and DevOps Principles at Scale.* IT Revolution Press, 2015. Print.
 - Kim, Gene, Kevin Behr, and George Spafford. *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win.* 1st edition. IT Revolution Press, 2013. Print.
--Gaiman, Neil. *Lovecraft’s Monsters.* Ed. Ellen Datlow. Tachyon Publications, 2014. Print.
+- Gaiman, Neil. *Lovecraft’s Monsters.* Ed. Ellen Datlow. Tachyon Publications, 2014. Print.
 
+- Horne, Patrick Van, Jason Riley, and Steven Pressfield. *Left of Bang: How the Marine Corps’ Combat Hunter Program Can Save Your Life.* Ed. Shawn Coyne. Black Irish Entertainment LLC, 2014. Print.
+
+- Micklethwait, John, and Adrian Wooldridge. *The Company: A Short History of a Revolutionary Idea.* Modern Library, 2003. Print.
 
 
 
