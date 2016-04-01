@@ -8,6 +8,8 @@
 - Newport, C. (2016) *Deep Work: Rules for Focused Success in a Distracted World.* United States: Grand Central Publishing.
 - Olen, Helaine, and Harold Pollack. (2016) *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated.* 1 edition. New York, New York: Portfolio, Print.
 - Pressfield, S. (2005) *Gates of Fire: An Epic Novel of The Battle of Thermopylae.* New York: Random House.
+- Singh, Simon. *The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography.* N.p., 2000. Print.
+
 
 
 
