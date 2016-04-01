@@ -21,29 +21,17 @@
 - Gruver, Gary, Tommy Mouser, and Gene Kim. *Leading the Transformation: Applying Agile and DevOps Principles at Scale.* IT Revolution Press, 2015. Print.
 - Kim, Gene, Kevin Behr, and George Spafford. *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win.* 1st edition. IT Revolution Press, 2013. Print.
 - Gaiman, Neil. *Lovecraft’s Monsters.* Ed. Ellen Datlow. Tachyon Publications, 2014. Print.
-
 - Horne, Patrick Van, Jason Riley, and Steven Pressfield. *Left of Bang: How the Marine Corps’ Combat Hunter Program Can Save Your Life.* Ed. Shawn Coyne. Black Irish Entertainment LLC, 2014. Print.
-
 - Micklethwait, John, and Adrian Wooldridge. *The Company: A Short History of a Revolutionary Idea.* Modern Library, 2003. Print.
-
 - Chandler, Steve. *Time Warrior: How to Defeat Procrastination, People-Pleasing, Self-Doubt, over-Commitment, Broken Promises and Chaos.* Maurice Bassett, 2011. Print.
-
 - Tynan. *Superhuman Social Skills: A Guide to Being Likeable, Winning Friends, and Building Your Social Circle.* N.p. Print.
-
 - *“The Gospel of the Redman: A Way of Life: Ernest Thompson Seton, Julia M. Seton: 9780839535744: Amazon.com: Books.”* N.p., n.d. Web. 30 Mar. 2016.
-
 - Knapp, Samuel L., and Marie Joseph Paul Yves Roch Gilbert Du Motier Lafayette. *Memoirs of General Lafayette : With an Account of His Visit to America and His Reception By the People of the United States; From His Arrival, August 15th, ... at Yorktown,* October 19th, 1824. N.p. Print.
-
-- Chambers, Robert W. The King in Yellow. N.p. Print.
-
+- Chambers, Robert W. *The King in Yellow.* N.p. Print.
 - Blackhurst, R. L. *The Wolves of Solomon.* 1 edition. R.L. Blackhurst, 2010. Print.
-
 - Alexander, C., and T. Beach. *Learn Chess: A Complete Course.* Everyman Chess, 2013. Print.
-
 - Pressfield, Steven. *The Warrior Ethos.* Ed. Shawn Coyne. Black Irish Entertainment LLC, 2011. Print.
-
 - Porter, Derek J. *Conquering Mental Fatigues: PTSD & Hypervigilance Disorder- Post War.* War Writers’ Campaign, Inc., 2013. Print.
-
 - Henry, Todd. Die Empty: *Unleash Your Best Work Every Day.* Reprint edition. Portfolio, 2013. Print.
 
 
@@ -53,7 +41,6 @@
 - Danielewski, Mark Z. *House of Leaves.* 2nd edition. New York: Pantheon, 2000. Print.
 - Manfred, Frederick, Freya Manfred, and John R. Milton. *Lord Grizzly, Second Edition.* 2nd ed. edition. Lincoln: Bison Books, 2011. Print.
 - Webster, John. The White Devil. N.p. Print.
-
 - Seton, Ernest Thompson. Wild Animals I Have Known. N.p. Print.
 
 
