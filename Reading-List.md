@@ -40,8 +40,8 @@
 - Cervantes, Miguel de. *Don Quixote (illustrated & Annotated)* - The Unabridged Classic Ormsby Translation Fully Illustrated by Gustave Doré. Trans. John Ormsby. e-artnow Editions, 2013. Print.
 - Danielewski, Mark Z. *House of Leaves.* 2nd edition. New York: Pantheon, 2000. Print.
 - Manfred, Frederick, Freya Manfred, and John R. Milton. *Lord Grizzly, Second Edition.* 2nd ed. edition. Lincoln: Bison Books, 2011. Print.
-- Webster, John. The White Devil. N.p. Print.
-- Seton, Ernest Thompson. Wild Animals I Have Known. N.p. Print.
+- Webster, John. *The White Devil.* N.p. Print.
+- Seton, Ernest Thompson. *Wild Animals I Have Known.* N.p. Print.
 
 
  
