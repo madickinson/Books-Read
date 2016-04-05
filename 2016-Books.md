@@ -9,6 +9,8 @@
 - Olen, Helaine, and Harold Pollack. (2016) *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated.* 1 edition. New York, New York: Portfolio, Print.
 - Pressfield, S. (2005) *Gates of Fire: An Epic Novel of The Battle of Thermopylae.* New York: Random House.
 - Singh, Simon. (2000) *The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography.* N.p., Print.
+- Sutherland, Jeff, and J. J. Sutherland. (2014) *Scrum: The Art of Doing Twice the Work in Half the Time.* New York: Crown Business, Print.
+
 
 
 
