@@ -17,7 +17,11 @@
 - Richards, C. (2004) *Certain to win: The strategy of john boyd, applied to business.* United States: Xlibris Corp.
 - Sagan, Carl, and Ann Druyan. *The Demon-Haunted World: Science as a Candle in the Dark.* N.p., 1995. Print.
 - Singh, Simon. (2000) *The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography.* N.p., Print.
+- Spade, David. *Almost Interesting.* Reprint edition. New York: Dey Street Books, 2016. Print.
+
 - Sutherland, Jeff, and J. J. Sutherland. (2014) *Scrum: The Art of Doing Twice the Work in Half the Time.* New York: Crown Business, Print.
+- Tippett, Krista. *Speaking of Faith: Why Religion Matters--and How to Talk About It.* Reprint edition. New York, N.Y.: Penguin Books, 2008. Print.
+
 
 
 
