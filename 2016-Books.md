@@ -3,6 +3,7 @@
 - Baime, A.J. (2009) *Go Like Hell: Ford, Ferrari, and their battle for speed and glory at Le Mans.* Boston: Houghton Mifflin Harcourt.
 - Burgin, R. V., and Bill Marvel. *Islands of the Damned: A Marine at War in the Pacific.* New York: NAL, 2011. Print.
 - Chapman, G. (2005) *The Five Love Languages: How to express heartfelt commitment to your mate.* United States: Thorndike Press.
+- Chernow, Ron. *Washington: A Life.* New York: Penguin Books, 2011. Print.
 - Gaiman, Neil, and P. Craig Russell. *The Graveyard Book Graphic Novel: Volume 1.* Reprint edition. Place of publication not identified: HarperCollins, 2015. Print.
 
 - Gladwell, Malcolm, and Hachette Audio. *David and Goliath: Underdogs, Misfits, and the Art of Battling Giants.* Hachette Audio. Print.
