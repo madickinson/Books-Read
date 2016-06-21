@@ -34,6 +34,8 @@
 - Porter, Derek J. *Conquering Mental Fatigues: PTSD & Hypervigilance Disorder- Post War.* War Writers’ Campaign, Inc., 2013. Print.
 - Henry, Todd. Die Empty: *Unleash Your Best Work Every Day.* Reprint edition. Portfolio, 2013. Print.
 - White, Richard. *The middle ground: Indians, empires, and republics in the Great Lakes region, 1650-1815* (1991)
+- Raffa, Guy P. *The Complete Danteworlds: A Reader’s Guide to the Divine Comedy.* 35878th edition. Chicago ; London: University Of Chicago Press, 2009. Print.
+
 
 
 
