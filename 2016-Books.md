@@ -1,5 +1,6 @@
 ﻿#2016 Books Read
 
+- Armstrong, Karen. *Buddha.* Reprint edition. New York: Penguin Books, 2004. Print.
 - Baime, A.J. (2009) *Go Like Hell: Ford, Ferrari, and their battle for speed and glory at Le Mans.* Boston: Houghton Mifflin Harcourt.
 - Burgin, R. V., and Bill Marvel. *Islands of the Damned: A Marine at War in the Pacific.* New York: NAL, 2011. Print.
 - Chapman, G. (2005) *The Five Love Languages: How to express heartfelt commitment to your mate.* United States: Thorndike Press.
@@ -9,6 +10,7 @@
 - Gladwell, Malcolm, and Hachette Audio. *David and Goliath: Underdogs, Misfits, and the Art of Battling Giants.* Hachette Audio. Print.
 - Herman, A. (2013) *Freedom’s Forge: How American Business Produced Victory in World War II.* New York: Random House Trade Paperbacks.
 - Kirkman, R. (2015) *The Walking Dead: Life and Death: Volume 24.* United States: Image Comics.
+- King, Stephen. *Doctor Sleep: A Novel.* Reprint edition. New York: Pocket Books, 2016. Print.
 - Morgan, G. (2011) *A Brief History of The Holy Grail.* United States: Running Press Book Publishers.
 - Newport, C. (2016) *Deep Work: Rules for Focused Success in a Distracted World.* United States: Grand Central Publishing.
 - Olen, Helaine, and Harold Pollack. (2016) *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated.* 1 edition. New York, New York: Portfolio, Print.
@@ -19,6 +21,8 @@
 - Spade, David. *Almost Interesting.* Reprint edition. New York: Dey Street Books, 2016. Print.
 - Sutherland, Jeff, and J. J. Sutherland. (2014) *Scrum: The Art of Doing Twice the Work in Half the Time.* New York: Crown Business, Print.
 - Tippett, Krista. *Speaking of Faith: Why Religion Matters--and How to Talk About It.* Reprint edition. New York, N.Y.: Penguin Books, 2008. Print.
+
+
 
 
 
