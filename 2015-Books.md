@@ -25,7 +25,7 @@ Kubba, S. (2008) *Blueprint Reading: Construction Drawings for the Building Trad
 - Mooallem, J. (no date) *Wild Ones: A Sometimes Dismaying, Weirdly Reassuring Story about Looking at People Looking at Animals in America.* United States: Penguin Group (USA).
 - Ostrander, J., Duursema, J. and Stradley, R. (2013) *Star Wars Legacy Volume 2.* United States: Dark Horse Books.
 - Ramsey, D. (2012) *Dave Ramsey’s Complete Guide to Money: The Handbook of Financial Peace University.* United Kingdom: LAMPO GROUP INC.
-- Richards, C. (2004) *Certain to win: The strategy of john boyd, applied to business.* United States: Xlibris Corp.
+- Richards, C. (2004) *Certain to win: The strategy of John Boyd, applied to business.* United States: Xlibris Corp.
 - Robert Kirkman; [Charlie Adlard, penciler, inker, Rathburn, cover C.; Rus Wooton, Sitterson, letterer A.; and editor]. (2011) *The walking dead. a continuing story of survival horror.* Berkeley, CA: Image Comics.
 - Rousey, R. (2015) *My Fight / Your Fight.* United States: Regan Arts.
 - Russell, T. (2010) *A renegade history of the United States.* United States: Simon Spotlight Entertainment.
