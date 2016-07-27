@@ -1,6 +1,7 @@
 ﻿#2016 Books Read
 
 - Armstrong, Karen. *Buddha.* Reprint edition. New York: Penguin Books, 2004. Print.
+- Armstrong, Karen. *Fields of Blood: Religion and the History of Violence* Hardcover Deckle Edge, October 28, 2014. 1st edition edition. knopf, 2014. Print.
 - Baime, A.J. (2009) *Go Like Hell: Ford, Ferrari, and their battle for speed and glory at Le Mans.* Boston: Houghton Mifflin Harcourt.
 - Brown, Dan. *Inferno.* 1st Printing edition. Anchor, 2014. Print.
 - Burgin, R. V., and Bill Marvel. *Islands of the Damned: A Marine at War in the Pacific.* New York: NAL, 2011. Print.
