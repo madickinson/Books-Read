@@ -12,7 +12,6 @@
 - Ph.D, Gary Klein. *Intuition at Work: Why Developing Your Gut Instincts Will Make You Better at What You Do.* 1 edition. New York: Doubleday Business, 2002. Print.
 - Olen, Helaine, and Harold Pollack. *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated.* 1 edition. New York, New York: Portfolio, 2016. Print.
 - Ash, Mel. *The Zen of Recovery.* 1 edition. New York, NY: TarcherPerigee, 1993. Print.
-- Tzu, S. (1971) *The Art of War (Samuel Griffith translation).* London: Oxford University Press.
 - Senge, Peter M. *The Fifth Discipline: The Art & Practice of The Learning Organization.* Revised & Updated edition. New York: Doubleday, 2006. Print.
 - Jung, Emma, and Marie-Louise von Franz. *The Grail Legend. 2nd Revised ed. edition.* Princeton, N.J.: Princeton University Press, 1998. Print.
 - Saidy, Anthony. *The March of Chess Ideas: How the Century’s Greatest Players Have Waged the War Over Chess Strategy.* Rev Sub edition. New York: Random House Puzzles & Games, 1994. Print.
