@@ -8,6 +8,7 @@
 - Chapman, G. (2005) *The Five Love Languages: How to express heartfelt commitment to your mate.* United States: Thorndike Press.
 - Chernow, Ron. *Alexander Hamilton.* New York: Penguin Books, 2005. Print.
 - Chernow, Ron. *Washington: A Life.* New York: Penguin Books, 2011. Print.
+- Coram, R. and Klein, B. (2002) *Boyd: the fighter pilot who changed the art of war.* United States: Little, Brown and Company.
 - Gaiman, Neil, and P. Craig Russell. *The Graveyard Book Graphic Novel: Volume 1.* Reprint edition. Place of publication not identified: HarperCollins, 2015. Print.
 - Gladwell, Malcolm, and Hachette Audio. *David and Goliath: Underdogs, Misfits, and the Art of Battling Giants.* Hachette Audio. Print.
 - Herman, A. (2013) *Freedom’s Forge: How American Business Produced Victory in World War II.* New York: Random House Trade Paperbacks.
@@ -23,6 +24,7 @@
 - Spade, David. *Almost Interesting.* Reprint edition. New York: Dey Street Books, 2016. Print.
 - Sutherland, Jeff, and J. J. Sutherland. (2014) *Scrum: The Art of Doing Twice the Work in Half the Time.* New York: Crown Business, Print.
 - Tippett, Krista. *Speaking of Faith: Why Religion Matters--and How to Talk About It.* Reprint edition. New York, N.Y.: Penguin Books, 2008. Print.
+- Tzu, S. (1971) *The Art of War (Samuel Griffith translation).* London: Oxford University Press.
 
 
 
