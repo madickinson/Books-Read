@@ -5,7 +5,7 @@
 - Barry, S. (2004) *Paradox of Choice: Why more is less.* 1st edn. New York: HarperCollins Publishers.
 - Brand, R. (2014) *Revolution.* United States: Ballantine Books.
 - Campbell, J. and Moyers, B. (1988) *The Power of Myth.* 1st edn. New York: Bantam Doubleday Dell Publishing Group.
-- Coram, R. and Klein, B. (2002) *Boyd: the fighter pilot who changed the art of war.* United States: Little, Brown and Company.
+- Coram, R. and Klein, B. (2002) *Boyd: The Fighter Pilot Who Changed the Art of War.* United States: Little, Brown and Company.
 - Epictetus, Long, G. and Rosenbaum, S.E. (1991) *Enchiridion.* Edited by Robert Baird M. Epictetus. 1st edn. United States: Prometheus Books.
 - Gaiman, N., Campbell, E. and Campbell, E. (2014) *The Truth Is a Cave in the Black Mountains: A Tale of Travel and Darkness with Pictures of All Kinds.* United States: William Morrow & Company.
 - Gray, A.M., Bailey, L.F., Vedral, J.L., States, U. and U. S. Marine Corps Staff (2002) *Warfighting: The U. S. Marine Corps Book on Strategy.* 1st edn. New York: Bantam Doubleday Dell Publishing Group.
