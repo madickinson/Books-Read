@@ -1,6 +1,20 @@
 ﻿#Reading List
 
-##Non-Fiction
+##Non-Fiction 
+- Monk, Linda R. The Words We Live By: Your Annotated Guide to the Constitution. New York, N. Y: Hachette Books, 2010. Print.
+
+- “Ratification: The People Debate the Constitution, 1787-1788: Pauline Maier: 9780684868554: Amazon.com: Books.” N.p., n.d. Web. 12 Aug. 2016.
+
+- Beeman, Richard. Plain, Honest Men: The Making of the American Constitution. Reprint edition. New York: Random House Trade Paperbacks, 2010. Print.
+
+- Wilde, Oscar. The Annotated Importance of Being Earnest. Ed. Nicholas Frankel. annotated edition edition. Cambridge, Massachusetts: Harvard University Press, 2015. Print.
+
+- Poe, Edgar Allan, and William Giraldi. The Annotated Poe. Ed. Kevin J. Hayes. annotated edition edition. Cambridge, Massachusetts: Belknap Press, 2015. Print.
+
+- Rakove, Jack N. The Annotated U.S. Constitution and Declaration of Independence. Reprint edition. Cambridge, Mass.; London: Belknap Press, 2012. Print.
+
+- Beeman, Richard. The Penguin Guide to the United States Constitution: A Fully Annotated Declaration of Independence, U.S. Constitution and Amendments, and Selections from The Federalist Papers. 1 edition. New York: Penguin Books, 2010. Print.
+
 - Karma-gli-pa, Padma Sambhava, Gyurme Dorje, Graham Coleman, Thupten Jinpa, and Bstan-'dzin-rgya-mtsho. *The Tibetan Book of the Dead [English Title]: The Great Liberation by Hearing in the Intermediate States [Tibetan Title].* New York: Penguin, 2007.
 - Eknath, Easwaran, and Michael N. Nagler, eds. *The Upanishads.* 2nd ed. The Classics of Indian Spirituality. Tomales, CA: Nilgiri Press, 2007.
 - Lao-tzu. *Tao Te Ching.* N.p., n.d. Web. 11 Mar. 2016.
