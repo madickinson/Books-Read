@@ -1,6 +1,7 @@
 ﻿#Reading List
 
 ##Non-Fiction 
+- Littlejohn, David. *Gide: A Collection of Critical Essays.* Englewood Cliffs, N.J: Prentice-Hall, 1970. Print. A Spectrum Book.
 - Monk, Linda R. *The Words We Live By: Your Annotated Guide to the Constitution.* New York, N. Y: Hachette Books, 2010. Print.
 - Maier, Pauline *Ratification: The People Debate the Constitution, 1787-1788* N.p., n.d., 12 Aug. 2016.
 - Beeman, Richard. Plain, *Honest Men: The Making of the American Constitution.* Reprint edition. New York: Random House Trade Paperbacks, 2010. Print.
