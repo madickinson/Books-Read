@@ -3,6 +3,7 @@
 - Armstrong, Karen. *The Case for God.* Reprint edition. New York: Anchor, 2010. Print.
 - Armstrong, Karen. *Buddha.* Reprint edition. New York: Penguin Books, 2004. Print.
 - Armstrong, Karen. *Fields of Blood: Religion and the History of Violence* Hardcover Deckle Edge, October 28, 2014. 1st edition edition. knopf, 2014. Print.
+- Armstrong, Karen. *Twelve Steps to a Compassionate Life.* Reprint edition. Anchor, 2011. Print.
 - Baime, A.J. (2009) *Go Like Hell: Ford, Ferrari, and Their Battle for Speed and Glory at Le Mans.* Boston: Houghton Mifflin Harcourt.
 - Brown, Dan. *Inferno.* 1st Printing edition. Anchor, 2014. Print.
 - Burgin, R. V., and Bill Marvel. *Islands of the Damned: A Marine at War in the Pacific.* New York: NAL, 2011. Print.
@@ -20,7 +21,6 @@
 - Olen, Helaine, and Harold Pollack. (2016) *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated.* 1 edition. New York, New York: Portfolio, Print.
 - Pressfield, S. (2005) *Gates of Fire: An Epic Novel of The Battle of Thermopylae.* New York: Random House.
 - Pressfield, Steven. *The Lion’s Gate: On the Front Lines of the Six Day War.* Sentinal, 2016. Print.
-
 - Richards, C. (2004) *Certain to Win: The Strategy of John Boyd, Applied to Business.* United States: Xlibris Corp.
 - Sagan, Carl, and Ann Druyan. *The Demon-Haunted World: Science as a Candle in the Dark.* N.p., 1995. Print.
 - Singh, Simon. (2000) *The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography.* N.p., Print.
