@@ -1,10 +1,9 @@
 ﻿#2016 Books Read
 
-- Armstrong, Karen. *Twelve Steps to a Compassionate Life.* Reprint edition. Anchor, 2011. Print.
-- Armstrong, Karen. *The Case for God.* Reprint edition. New York: Anchor, 2010. Print.
 - Armstrong, Karen. *Buddha.* Reprint edition. New York: Penguin Books, 2004. Print.
 - Armstrong, Karen. *Fields of Blood: Religion and the History of Violence* Hardcover Deckle Edge, October 28, 2014. 1st edition edition. knopf, 2014. Print.
 - Armstrong, Karen. *Twelve Steps to a Compassionate Life.* Reprint edition. Anchor, 2011. Print.
+- Armstrong, Karen. *The Case for God.* Reprint edition. New York: Anchor, 2010. Print.
 - Baime, A.J. (2009) *Go Like Hell: Ford, Ferrari, and Their Battle for Speed and Glory at Le Mans.* Boston: Houghton Mifflin Harcourt.
 - Brown, Dan. *Inferno.* 1st Printing edition. Anchor, 2014. Print.
 - Burgin, R. V., and Bill Marvel. *Islands of the Damned: A Marine at War in the Pacific.* New York: NAL, 2011. Print.
@@ -16,8 +15,8 @@
 - Gaiman, Neil, and P. Craig Russell. *The Graveyard Book Graphic Novel: Volume 1.* Reprint edition. Place of publication not identified: HarperCollins, 2015. Print.
 - Gladwell, Malcolm, and Hachette Audio. *David and Goliath: Underdogs, Misfits, and the Art of Battling Giants.* Hachette Audio. Print.
 - Herman, A. (2013) *Freedom’s Forge: How American Business Produced Victory in World War II.* New York: Random House Trade Paperbacks.
-- Kirkman, R. (2015) *The Walking Dead: Life and Death: Volume 24.* United States: Image Comics.
 - King, Stephen. *Doctor Sleep: A Novel.* Reprint edition. New York: Pocket Books, 2016. Print.
+- Kirkman, R. (2015) *The Walking Dead: Life and Death: Volume 24.* United States: Image Comics.
 - Morgan, G. (2011) *A Brief History of The Holy Grail.* United States: Running Press Book Publishers.
 - Newport, C. (2016) *Deep Work: Rules for Focused Success in a Distracted World.* United States: Grand Central Publishing.
 - Olen, Helaine, and Harold Pollack. (2016) *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated.* 1 edition. New York, New York: Portfolio, Print.
