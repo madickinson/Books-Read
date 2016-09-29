@@ -13,6 +13,7 @@
 - Chernow, Ron. *Washington: A Life.* New York: Penguin Books, 2011. Print.
 - Coram, R. and Klein, B. (2002) *Boyd: The Fighter Pilot Who Changed the Art of War.* United States: Little, Brown and Company.
 - Duhigg, Charles, Mike Chamberlain, and Random House Audio. *The Power of Habit: Why We Do What We Do in Life and Business.* Random House Audio. Print.
+- Freeberg, Ernest, Sean Pratt, and LLC Gildan Media. *The Age of Edison: Electric Light and the Invention of Modern America.* Gildan Media, LLC. Print.
 - Gaiman, Neil, and P. Craig Russell. *The Graveyard Book Graphic Novel: Volume 1.* Reprint edition. Place of publication not identified: HarperCollins, 2015. Print.
 - Gladwell, Malcolm, and Hachette Audio. *David and Goliath: Underdogs, Misfits, and the Art of Battling Giants.* Hachette Audio. Print.
 - Hammond, Grant T. *The Mind of War: John Boyd and American Security.* Washington, D.C.: Smithsonian Books, 2004. Print.
