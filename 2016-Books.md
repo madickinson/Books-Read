@@ -24,6 +24,7 @@
 - Morgan, G. (2011) *A Brief History of The Holy Grail.* United States: Running Press Book Publishers.
 - Newport, C. (2016) *Deep Work: Rules for Focused Success in a Distracted World.* United States: Grand Central Publishing.
 - Olen, Helaine, and Harold Pollack. (2016) *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated.* 1 edition. New York, New York: Portfolio, Print.
+- Phillips, J. B. *Your God Is Too Small.* Macmillan, 1968. Print.
 - Pressfield, S. (2005) *Gates of Fire: An Epic Novel of The Battle of Thermopylae.* New York: Random House.
 - Pressfield, Steven. *The Lion’s Gate: On the Front Lines of the Six Day War.* Sentinal, 2016. Print.
 - Richards, C. (2004) *Certain to Win: The Strategy of John Boyd, Applied to Business.* United States: Xlibris Corp.
