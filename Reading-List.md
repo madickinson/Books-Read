@@ -54,5 +54,55 @@
 - Seton, Ernest Thompson. *Wild Animals I Have Known.* N.p. Print.
 
 
- 
+##Unformatted
+- Small Things Considered
+- Fist
+- The Prince
+- Dharma Bums
+- Blood Meridian
+- Theodor Rex
+- The Strenuous Life
+- Lonesome Dove
+- The Maltese Falcon
+- The long Goodbye
+- Zen and the Art of Motorcycle Maintenance
+- Resiliance - Eric Greitens
+- The Godfather
+- Self and Soul
+- With the Old Breed
+- Devotion
+- Zealout
+- Farther than any man
+- Boy Scout Handbook
+- The Perfect Storm
+- In Harms Way
+- Annapurna
+- True North - Bruce Henderson
+- The Innocents Abroad
+- Tresspassers on the Roof of the World
+- The Wasteland
+- The Purpose Driven Life
+- Pinoccio: The Origon Story
+- Metaphors We Live
+- Republic Lost
+- American Coup
+- The Art of Living (Epictetus) - Sharron Lebel
+- The Pause Principle
+-  Painting as a pastime - Winston Churchill
+- THe Subtle Art of Not Giving a Fuck
+- In the real of hungry ghosts
+- Chasing the scream
+- Woe to live on/ Ride with the devil
+- A brief history of time
+- THe lessons of history
+- Rendevous with death
+- Churchill and his money
+- From here to eternity
+- My confession; the recollections of a rogue - Samuel Chamberlain
+- The Dao of Gung Fu
+- Thinking Fast and Slow
+- Spartacus - Sam Jackson
+- I Am Spartacus - Kirk Douglas
+- The Tao of Bill Murray
+- My Time with Nine Presidents
 
