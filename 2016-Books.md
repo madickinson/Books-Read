@@ -7,6 +7,8 @@
 - Baime, A.J. (2009) *Go Like Hell: Ford, Ferrari, and Their Battle for Speed and Glory at Le Mans.* Boston: Houghton Mifflin Harcourt.
 - Brown, Dan. *Inferno.* 1st Printing edition. Anchor, 2014. Print.
 - Burgin, R. V., and Bill Marvel. *Islands of the Damned: A Marine at War in the Pacific.* New York: NAL, 2011. Print.
+- Campbell, Joseph, and Bill Moyers. *The Power of Myth.* New York: Anchor, 1991. Print.
+
 - Carré, John le, Full Cast, and Simon Russell Beale. *Tinker Tailor Soldier Spy: BBC Radio 4 Full-Cast Dramatisation. Unabridged edition.* BBC Books, 2010. Print.
 - Chapman, G. (2005) *The Five Love Languages: How to express heartfelt commitment to your mate.* United States: Thorndike Press.
 - Chernow, Ron. *Alexander Hamilton.* New York: Penguin Books, 2005. Print.
