@@ -15,6 +15,8 @@
 - Chernow, Ron. *Washington: A Life.* New York: Penguin Books, 2011. Print.
 - Coram, R. and Klein, B. (2002) *Boyd: The Fighter Pilot Who Changed the Art of War.* United States: Little, Brown and Company.
 - Duhigg, Charles, Mike Chamberlain, and Random House Audio. *The Power of Habit: Why We Do What We Do in Life and Business.* Random House Audio. Print.
+- Dormehl, Luke, Daniel Weyman, and LLC Gildan Media. *The Formula: How Algorithms Solve All Our Problems…and Create More.* Gildan Media, LLC. Print.
+
 - Freeberg, Ernest, Sean Pratt, and LLC Gildan Media. *The Age of Edison: Electric Light and the Invention of Modern America.* Gildan Media, LLC. Print.
 - Gaiman, Neil, and P. Craig Russell. *The Graveyard Book Graphic Novel: Volume 1.* Reprint edition. Place of publication not identified: HarperCollins, 2015. Print.
 - Gladwell, Malcolm, and Hachette Audio. *David and Goliath: Underdogs, Misfits, and the Art of Battling Giants.* Hachette Audio. Print.
@@ -38,6 +40,7 @@
 - Sutherland, Jeff, and J. J. Sutherland. (2014) *Scrum: The Art of Doing Twice the Work in Half the Time.* New York: Crown Business, Print.
 - Tippett, Krista. *Speaking of Faith: Why Religion Matters--and How to Talk About It.* Reprint edition. New York, N.Y.: Penguin Books, 2008. Print.
 - Tzu, S. (1971) *The Art of War (Samuel Griffith translation).* London: Oxford University Press.
+
 
 
 
