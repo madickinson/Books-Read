@@ -21,6 +21,8 @@
 - Gaiman, Neil, and P. Craig Russell. *The Graveyard Book Graphic Novel: Volume 1.* Reprint edition. Place of publication not identified: HarperCollins, 2015. Print.
 - Gladwell, Malcolm, and Hachette Audio. *David and Goliath: Underdogs, Misfits, and the Art of Battling Giants.* Hachette Audio. Print.
 - Hammond, Grant T. *The Mind of War: John Boyd and American Security.* Washington, D.C.: Smithsonian Books, 2004. Print.
+- Hawke, Ethan. *Rules for a Knight.* First Edition. New York: Knopf, 2015. Print.
+
 - Hawking, Stephen W., and Michael Jackson. *A Brief History of Time: From the Big Bang to Black Holes.* Unabridged edition. Beverly Hills, Calif.: Phoenix Audio, 2005. Print.
 - Herman, A. (2013) *Freedom’s Forge: How American Business Produced Victory in World War II.* New York: Random House Trade Paperbacks.
 - King, Stephen. *Doctor Sleep: A Novel.* Reprint edition. New York: Pocket Books, 2016. Print.
