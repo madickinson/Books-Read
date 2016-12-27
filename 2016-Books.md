@@ -16,11 +16,11 @@
 - Coram, R. and Klein, B. (2002) *Boyd: The Fighter Pilot Who Changed the Art of War.* United States: Little, Brown and Company.
 - Duhigg, Charles, Mike Chamberlain, and Random House Audio. *The Power of Habit: Why We Do What We Do in Life and Business.* Random House Audio. Print.
 - Dormehl, Luke, Daniel Weyman, and LLC Gildan Media. *The Formula: How Algorithms Solve All Our Problems…and Create More.* Gildan Media, LLC. Print.
-
 - Freeberg, Ernest, Sean Pratt, and LLC Gildan Media. *The Age of Edison: Electric Light and the Invention of Modern America.* Gildan Media, LLC. Print.
 - Gaiman, Neil, and P. Craig Russell. *The Graveyard Book Graphic Novel: Volume 1.* Reprint edition. Place of publication not identified: HarperCollins, 2015. Print.
 - Gladwell, Malcolm, and Hachette Audio. *David and Goliath: Underdogs, Misfits, and the Art of Battling Giants.* Hachette Audio. Print.
 - Hammond, Grant T. *The Mind of War: John Boyd and American Security.* Washington, D.C.: Smithsonian Books, 2004. Print.
+- Hawke, Ethan, and Greg Ruth. *Indeh: A Story of the Apache Wars.* First Edition edition. New York: Grand Central Publishing, 2016. Print.
 - Hawke, Ethan. *Rules for a Knight.* First Edition. New York: Knopf, 2015. Print.
 
 - Hawking, Stephen W., and Michael Jackson. *A Brief History of Time: From the Big Bang to Black Holes.* Unabridged edition. Beverly Hills, Calif.: Phoenix Audio, 2005. Print.
@@ -28,7 +28,6 @@
 - King, Stephen. *Doctor Sleep: A Novel.* Reprint edition. New York: Pocket Books, 2016. Print.
 - Kirkman, R. (2015) *The Walking Dead: Life and Death: Volume 24.* United States: Image Comics.
 - Mignola, Mike. *B.P.R.D: 1946-1948.* Milwaukie, Or: Dark Horse Books, 2015. Print.
-
 - Morgan, G. (2011) *A Brief History of The Holy Grail.* United States: Running Press Book Publishers.
 - Newport, C. (2016) *Deep Work: Rules for Focused Success in a Distracted World.* United States: Grand Central Publishing.
 - Olen, Helaine, and Harold Pollack. (2016) *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated.* 1 edition. New York, New York: Portfolio, Print.
@@ -42,6 +41,7 @@
 - Sutherland, Jeff, and J. J. Sutherland. (2014) *Scrum: The Art of Doing Twice the Work in Half the Time.* New York: Crown Business, Print.
 - Tippett, Krista. *Speaking of Faith: Why Religion Matters--and How to Talk About It.* Reprint edition. New York, N.Y.: Penguin Books, 2008. Print.
 - Tzu, S. (1971) *The Art of War (Samuel Griffith translation).* London: Oxford University Press.
+
 
 
 
