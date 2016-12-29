@@ -111,4 +111,13 @@
 - The Evolution of the West: How Christianity Has Shaped Morality
 - The Business Blockchain
 - The River War
-- The Hedgehog and the Fox
+- The Hedgehog and the Fox 
+- Men in Green Faces 
+- Fingerprints of the Gods 
+- Entangled 
+- Fire and Forget 
+- Maltese Falcoln 
+- Master and COmmander 
+- Rommel the Desert Fox 
+- Solaris 
+- Being Mortal 
