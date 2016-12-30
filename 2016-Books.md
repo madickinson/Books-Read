@@ -8,12 +8,13 @@
 - Brown, Dan. *Inferno.* 1st Printing edition. Anchor, 2014. Print.
 - Burgin, R. V., and Bill Marvel. *Islands of the Damned: A Marine at War in the Pacific.* New York: NAL, 2011. Print.
 - Campbell, Joseph, and Bill Moyers. *The Power of Myth.* New York: Anchor, 1991. Print.
-
 - Carré, John le, Full Cast, and Simon Russell Beale. *Tinker Tailor Soldier Spy: BBC Radio 4 Full-Cast Dramatisation. Unabridged edition.* BBC Books, 2010. Print.
 - Chapman, G. (2005) *The Five Love Languages: How to express heartfelt commitment to your mate.* United States: Thorndike Press.
 - Chernow, Ron. *Alexander Hamilton.* New York: Penguin Books, 2005. Print.
 - Chernow, Ron. *Washington: A Life.* New York: Penguin Books, 2011. Print.
 - Coram, R. and Klein, B. (2002) *Boyd: The Fighter Pilot Who Changed the Art of War.* United States: Little, Brown and Company.
+- D’Este, Carlo, and Tom Weiner. *Warlord: A Life of Winston Churchill at War, 1874-1945.* Unabridged edition. Ashland, Or.: Blackstone Audio, Inc., 2009. Print.
+ 
 - Duhigg, Charles, Mike Chamberlain, and Random House Audio. *The Power of Habit: Why We Do What We Do in Life and Business.* Random House Audio. Print.
 - Dormehl, Luke, Daniel Weyman, and LLC Gildan Media. *The Formula: How Algorithms Solve All Our Problems…and Create More.* Gildan Media, LLC. Print.
 - Freeberg, Ernest, Sean Pratt, and LLC Gildan Media. *The Age of Edison: Electric Light and the Invention of Modern America.* Gildan Media, LLC. Print.
@@ -39,10 +40,10 @@
 - Singh, Simon. (2000) *The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography.* N.p., Print.
 - Spade, David. *Almost Interesting.* Reprint edition. New York: Dey Street Books, 2016. Print.
 - Sutherland, Jeff, and J. J. Sutherland. (2014) *Scrum: The Art of Doing Twice the Work in Half the Time.* New York: Crown Business, Print.
-- Tippett, Krista. *Speaking of Faith: Why Religion Matters--and How to Talk About It.* Reprint edition. New York, N.Y.: Penguin Books, 2008. Print.
+- Tippett, Krista. *Speaking of Faith: Why Religion Matters--and How to Talk About It.* Reprint edition. New York, N.Y.: Penguin Books, 2008. Print. 
 - Tzu, S. (1971) *The Art of War (Samuel Griffith translation).* London: Oxford University Press.
 
-
+ 
 
 
 
