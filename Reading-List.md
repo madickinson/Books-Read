@@ -55,6 +55,8 @@
 
 
 ##Unformatted
+- Blue Like Jazz
+- A New Kind of Christian
 - The Dalkey Archive
 - Small Things Considered
 - Fist
