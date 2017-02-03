@@ -1,5 +1,7 @@
 ﻿#2017 Books Read
  
+ - Branca, Andrew F. *The Law of Self Defense: The Indispensable Guide to the Armed Citizen.* 2nd edition. Maynard MA: Law of Self Defense, 2013. Print.
+  
  - Evans, Rachel Held. *Searching for Sunday: Loving, Leaving, and Finding the Church.* MP3 Una edition. Thomas Nelson on Brilliance Audio, 2015. Print.
   
  - Kirkpatrick, Sidney, and Charles Stransky. *Hitler’s Holy Relics: A True Story of Nazi Plunder and the Race to Recover the Crown Jewels of the Holy Roman Empire.* Unabridged edition. Minneapolis, Minn.: HighBridge Audio, 2010. Print.
