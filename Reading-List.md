@@ -55,8 +55,24 @@
 
 
 ##Unformatted 
-- The Autobiography of General Ulysses S. Grant: Memoirs of the Civil War
+- Michael R. Gordon and Bernard E. Trainor—Cobra II: The Inside Story of the Invasion and Occupation of Iraq and The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama  
+- Peter Tomsen, The Wars of Afghanistan: Messianic Terrorism, Tribal Conflicts, and the Failures of Great Powers  
+- Michael Howard—The Franco–Prussian War: The German Invasion of France 1870–1871  
+- Don Higginbotham—George Washington and the American Military Traditionand The War of American Independence
+- Fred Anderson—Crucible of War: The Seven Years’ War and the Fate of Empire in British North America, 1754–1766  
+- The Autobiography of General Ulysses S. Grant: Memoirs of the Civil War  
+- Rick Atkinson—An Army at Dawn: The War in North Africa, 1942–1943; The Day of Battle: The War in Sicily and Italy, 1943–1944; and the forthcoming The Guns at Last Light: The War in Western Europe, 1944–1945   
 - Carl von Clausewitz—On War 
+- Peter Bergen—The Longest War: The Enduring Conflict between America and Al-Qaeda  
+- Victor Cha—The Impossible State: North Korea, Past and Future  
+- David Crist—The Twilight War: The Secret History of America’s Thirty-Year Conflict with Iran  
+- Bruce Riedel—Deadly Embrace: Pakistan, America, and the Future of the Global Jihad  
+- Gerhard Weinberg—A World at Arms: A Global History of World War II  
+- Carlo D’Este—Patton: A Genius for War  
+- David Fraser—Knight’s Cross: A Life of Field Marshal Erwin Rommel  
+- Matthew B. Ridgway—The Korean War  
+- Eric Bergerud—Red Thunder, Tropic Lightning: The World of a Combat Division in Vietnam  
+- Donald Kagan—The Peloponnesian War  
 - Michael Howard—War in European History 
 - Elting Morison—Men, Machines, and Modern Times 
 - Williamson Murray—The Making of Strategy: Rulers, States, and War 
