@@ -54,7 +54,17 @@
 - Seton, Ernest Thompson. *Wild Animals I Have Known.* N.p. Print.
 
 
-##Unformatted
+##Unformatted 
+- The Autobiography of General Ulysses S. Grant: Memoirs of the Civil War
+- Carl von Clausewitz—On War 
+- Michael Howard—War in European History 
+- Elting Morison—Men, Machines, and Modern Times 
+- Williamson Murray—The Making of Strategy: Rulers, States, and War 
+- Thucydides—The History of the Peloponnesian War  
+- Marc Bloch—Strange Defeat  
+- Robert A. Doughty—The Breaking Point: Sedan and the Fall of France, 1940, and Pyrrhic Victory: French Strategy and Operations in the Great War  
+- Timothy T. Lupfer—Dynamics of Doctrine: The Changes in German Tactical Doctrine During the First World War  
+- Williamson Murray—Military Innovation in the Interwar Period
 - T'ai Chi, the Supreme Ultimate Exercise for Health, Sport and Self-defense, 
 - There Are No Secrets: Professor Cheng Man Ch'ing and His Tai Chi Chuan 
 - Blue Like Jazz
