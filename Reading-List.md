@@ -55,6 +55,7 @@
 
 
 ##Unformatted 
+- Hashtag Republic  
 - Michael R. Gordon and Bernard E. Trainor—Cobra II: The Inside Story of the Invasion and Occupation of Iraq and The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama  
 - Peter Tomsen, The Wars of Afghanistan: Messianic Terrorism, Tribal Conflicts, and the Failures of Great Powers  
 - Michael Howard—The Franco–Prussian War: The German Invasion of France 1870–1871  
