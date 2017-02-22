@@ -42,20 +42,6 @@
 - Henry, Todd. Die Empty: *Unleash Your Best Work Every Day.* Reprint edition. Portfolio, 2013. Print.
 - White, Richard. *The middle ground: Indians, empires, and republics in the Great Lakes region, 1650-1815* (1991)
 - Raffa, Guy P. *The Complete Danteworlds: A Reader’s Guide to the Divine Comedy.* 35878th edition. Chicago ; London: University Of Chicago Press, 2009. Print.
-
-
-
-
-##Fiction
-- Cervantes, Miguel de. *Don Quixote (illustrated & Annotated)* - The Unabridged Classic Ormsby Translation Fully Illustrated by Gustave Doré. Trans. John Ormsby. e-artnow Editions, 2013. Print.
-- Danielewski, Mark Z. *House of Leaves.* 2nd edition. New York: Pantheon, 2000. Print.
-- Manfred, Frederick, Freya Manfred, and John R. Milton. *Lord Grizzly, Second Edition.* 2nd ed. edition. Lincoln: Bison Books, 2011. Print.
-- Webster, John. *The White Devil.* N.p. Print.
-- Seton, Ernest Thompson. *Wild Animals I Have Known.* N.p. Print.
-
-
-##Unformatted 
-- Hashtag Republic  
 - Gordon, Michael R., and Bernard E. Trainor. *Cobra II: The Inside Story of the Invasion and Occupation of Iraq.* Reprint edition. New York: Vintage, 2007. Print.
   
 - Tomsen, Peter. The Wars of Afghanistan: Messianic Terrorism, Tribal Conflicts, and the Failures of Great Powers. First Trade Paper ed edition. PublicAffairs, 2013. Print.
@@ -74,8 +60,21 @@
    
 - Atkinson, Rick. The Guns at Last Light: The War in Western Europe, 1944-1945. Volume Three of The Liberation Trilogy edition. New York: Picador, 2014. Print.
      
-- Clausewitz, Carl von. On War, Indexed Edition. Trans. Michael Eliot Howard and Peter Paret. Reprint edition. Princeton: Princeton University Press, 1989. Print.
-  
+- Clausewitz, Carl von. On War, Indexed Edition. Trans. Michael Eliot Howard and Peter Paret. Reprint edition. Princeton: Princeton University Press, 1989. Print.  
+
+
+
+##Fiction
+- Cervantes, Miguel de. *Don Quixote (illustrated & Annotated)* - The Unabridged Classic Ormsby Translation Fully Illustrated by Gustave Doré. Trans. John Ormsby. e-artnow Editions, 2013. Print.
+- Danielewski, Mark Z. *House of Leaves.* 2nd edition. New York: Pantheon, 2000. Print.
+- Manfred, Frederick, Freya Manfred, and John R. Milton. *Lord Grizzly, Second Edition.* 2nd ed. edition. Lincoln: Bison Books, 2011. Print.
+- Webster, John. *The White Devil.* N.p. Print.
+- Seton, Ernest Thompson. *Wild Animals I Have Known.* N.p. Print.
+
+
+##Unformatted 
+- Hashtag Republic  
+
 - Peter Bergen—The Longest War: The Enduring Conflict between America and Al-Qaeda  
 - Victor Cha—The Impossible State: North Korea, Past and Future  
 - David Crist—The Twilight War: The Secret History of America’s Thirty-Year Conflict with Iran  
