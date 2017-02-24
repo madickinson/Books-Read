@@ -42,8 +42,52 @@
 - Henry, Todd. Die Empty: *Unleash Your Best Work Every Day.* Reprint edition. Portfolio, 2013. Print.
 - White, Richard. *The middle ground: Indians, empires, and republics in the Great Lakes region, 1650-1815* (1991)
 - Raffa, Guy P. *The Complete Danteworlds: A Reader’s Guide to the Divine Comedy.* 35878th edition. Chicago ; London: University Of Chicago Press, 2009. Print.
-
-
+- Gordon, Michael R., and Bernard E. Trainor. *Cobra II: The Inside Story of the Invasion and Occupation of Iraq.* Reprint edition. New York: Vintage, 2007. Print.
+  
+- Tomsen, Peter. The Wars of Afghanistan: Messianic Terrorism, Tribal Conflicts, and the Failures of Great Powers. First Trade Paper ed edition. PublicAffairs, 2013. Print.
+    
+- Howard, Michael. The Franco-Prussian War: The German Invasion of France 1870–1871. 2 edition. London ; New York: Routledge, 2001. Print.
+    
+- Higginbotham, Don. George Washington and the American Military Tradition. Place of publication not identified: University of Georgia Press, 2004. Print.
+  
+- Anderson, Fred. Crucible of War: The Seven Years’ War and the Fate of Empire in British North America, 1754-1766. Reprint edition. Vintage, 2007. Print.
+    
+- Grant, Ulysses S. The Autobiography of General Ulysses S Grant: Memoirs of the Civil War. Later Printing edition. St. Petersburg, Fla: Red and Black Publishers, 2008. Print.
+    
+- Atkinson, Rick. An Army at Dawn: The War in North Africa, 1942-1943, Volume One of the Liberation Trilogy. Revised edition. New York: Holt Paperbacks, 2007. Print.
+   
+- Atkinson, Rick. The Day of Battle: The War in Sicily and Italy, 1943-1944. Henry Holt, 2008. Print.
+   
+- Atkinson, Rick. The Guns at Last Light: The War in Western Europe, 1944-1945. Volume Three of The Liberation Trilogy edition. New York: Picador, 2014. Print.
+     
+- Clausewitz, Carl von. On War, Indexed Edition. Trans. Michael Eliot Howard and Peter Paret. Reprint edition. Princeton: Princeton University Press, 1989. Print.  
+- Bergen, Peter L. The Longest War: The Enduring Conflict between America and Al-Qaeda. Reprint edition. Place of publication not identified: Free Press, 2011. Print.  
+- Cha, Victor. The Impossible State: North Korea, Past and Future. Reprint edition. Ecco, 2013. Print.
+  
+- Crist, David. The Twilight War: The Secret History of America’s Thirty-Year Conflict with Iran. Reprint edition. Penguin Books, 2013. Print.
+  
+Riedel, Bruce. Deadly Embrace: Pakistan, America, and the Future of the Global Jihad. First Edition edition. Washington, D.C: Brookings Institution Press, 2011. Print.
+  
+- Weinberg, Gerhard L. A World at Arms: A Global History of World War II. 2 edition. Cambridge ; New York: Cambridge University Press, 2005. Print.
+  
+- D’Este, Carlo. Patton: A Genius for War. 1st edition. New York: Harpercollins, 1995. Print.
+  
+- Fraser, David. Knight’s Cross : A Life of Field Marshal Erwin Rommel. Reprint edition. New York, NY: Harper Perennial, 1994. Print.
+  
+- Ridgway, Matthew B. The Korean War. Revised ed. edition. New York, N.Y: Da Capo Press, 1986. Print.
+  
+- Red Thunder Tropic Lightning: The World of a Combat Division in Vietnam 2nd. 2nd edition. Penguin Books. Print.
+  
+- Kagan, Donald. The Peloponnesian War. Reprint edition. New York: Penguin Books, 2004. Print.
+  
+- Howard, Michael. War in European History. 1 edition. New York, NY: Oxford University Press, 2009. Print.
+  
+- Morison, Elting E., Rosalind Williams, and Leo Marx. Men, Machines, and Modern Times. 50th Anniversary ed. edition. Cambridge, Massachusetts: The MIT Press, 2016. Print.
+  
+- Murray, Williamson, Alvin Bernstein, and MacGregor Knox, eds. The Making of Strategy: Rulers, States, and War. Cambridge etc: Cambridge University Press, 1996. Print.
+  
+- Thucydides. History of the Peloponnesian War. Ed. M. I. Finley. Trans. Rex Warner. Revised edition. Harmondsworth, Eng., Baltimore: Penguin Classics, 1972. Print.
+  
 
 
 ##Fiction
@@ -55,28 +99,8 @@
 
 
 ##Unformatted 
-- Michael R. Gordon and Bernard E. Trainor—Cobra II: The Inside Story of the Invasion and Occupation of Iraq and The Endgame: The Inside Story of the Struggle for Iraq, from George W. Bush to Barack Obama  
-- Peter Tomsen, The Wars of Afghanistan: Messianic Terrorism, Tribal Conflicts, and the Failures of Great Powers  
-- Michael Howard—The Franco–Prussian War: The German Invasion of France 1870–1871  
-- Don Higginbotham—George Washington and the American Military Traditionand The War of American Independence
-- Fred Anderson—Crucible of War: The Seven Years’ War and the Fate of Empire in British North America, 1754–1766  
-- The Autobiography of General Ulysses S. Grant: Memoirs of the Civil War  
-- Rick Atkinson—An Army at Dawn: The War in North Africa, 1942–1943; The Day of Battle: The War in Sicily and Italy, 1943–1944; and the forthcoming The Guns at Last Light: The War in Western Europe, 1944–1945   
-- Carl von Clausewitz—On War 
-- Peter Bergen—The Longest War: The Enduring Conflict between America and Al-Qaeda  
-- Victor Cha—The Impossible State: North Korea, Past and Future  
-- David Crist—The Twilight War: The Secret History of America’s Thirty-Year Conflict with Iran  
-- Bruce Riedel—Deadly Embrace: Pakistan, America, and the Future of the Global Jihad  
-- Gerhard Weinberg—A World at Arms: A Global History of World War II  
-- Carlo D’Este—Patton: A Genius for War  
-- David Fraser—Knight’s Cross: A Life of Field Marshal Erwin Rommel  
-- Matthew B. Ridgway—The Korean War  
-- Eric Bergerud—Red Thunder, Tropic Lightning: The World of a Combat Division in Vietnam  
-- Donald Kagan—The Peloponnesian War  
-- Michael Howard—War in European History 
-- Elting Morison—Men, Machines, and Modern Times 
-- Williamson Murray—The Making of Strategy: Rulers, States, and War 
-- Thucydides—The History of the Peloponnesian War  
+- Hashtag Republic  
+
 - Marc Bloch—Strange Defeat  
 - Robert A. Doughty—The Breaking Point: Sedan and the Fall of France, 1940, and Pyrrhic Victory: French Strategy and Operations in the Great War  
 - Timothy T. Lupfer—Dynamics of Doctrine: The Changes in German Tactical Doctrine During the First World War  
