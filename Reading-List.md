@@ -88,6 +88,8 @@ Riedel, Bruce. Deadly Embrace: Pakistan, America, and the Future of the Global J
   
 - Thucydides. History of the Peloponnesian War. Ed. M. I. Finley. Trans. Rex Warner. Revised edition. Harmondsworth, Eng., Baltimore: Penguin Classics, 1972. Print.
   
+- Hammond, Wayne G., and Christina Scull. The Lord of the Rings: A Reader’s Companion. 1St Edition edition. Boston: Houghton Mifflin Harcourt, 2005. Print.
+  
 
 
 ##Fiction
