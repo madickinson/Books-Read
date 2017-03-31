@@ -1,6 +1,12 @@
 ﻿#Reading List
 
-##Non-Fiction 
+##Non-Fiction  
+- Jung, C. G. *Symbols of Transformation.* Trans. Gerhard Adler and R. F. C. Hull. 2nd ed. edition. Princeton University Press, 1967. Print.
+  
+- Cummins, Antony et al. *True Path of the Ninja: The Definitive Translation of the Shoninki.* Tra edition. Tokyo ; Rutland, Vermont: Tuttle Publishing, 2017. Print.
+  
+- Adams, Henry, and Ray Carney. *Mont-Saint-Michel and Chartres.* Reprint edition. New York, N.Y., U.S.A: Penguin Classics, 1986. Print.
+  
 - Littlejohn, David. *Gide: A Collection of Critical Essays.* Englewood Cliffs, N.J: Prentice-Hall, 1970. Print. A Spectrum Book.
 - Monk, Linda R. *The Words We Live By: Your Annotated Guide to the Constitution.* New York, N. Y: Hachette Books, 2010. Print.
 - Maier, Pauline *Ratification: The People Debate the Constitution, 1787-1788* N.p., n.d., 12 Aug. 2016.
