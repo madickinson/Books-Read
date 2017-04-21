@@ -12,5 +12,7 @@
   
  - Popper, Nathaniel. *Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money.* Reprint edition. Harper Paperbacks, 2016. Print.
   
+ - Collier, James Lincoln, and Christopher Collier. *The French and Indian War: 1660 - 1763.* Blackstone Publishing, 2012. Print.
+  
 
 
