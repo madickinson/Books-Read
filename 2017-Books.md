@@ -1,5 +1,7 @@
 ﻿#2017 Books Read
  
+ - Alexander, William. *52 Loaves: One Man’s Relentless Pursuit of Truth, Meaning, and a Perfect Crust.* First Edition edition. Chapel Hill, N.C: Algonquin Books, 2010. Print.
+
  - Blutch. *Peplum.* New York, USA: New York Review Comics, 2016. Print.
   
  - Branca, Andrew F. *The Law of Self Defense: The Indispensable Guide to the Armed Citizen.* 2nd edition. Maynard MA: Law of Self Defense, 2013. Print.
@@ -18,4 +20,5 @@
   
  - Campbell, Joseph. *Pathways to Bliss: Mythology and Personal Transformation.* Ed. David Kudler. Novato, Calif: New World Library, 2004. Print.
   
+
 
