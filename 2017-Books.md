@@ -1,8 +1,12 @@
 ﻿#2017 Books Read
  
-- Blutch. *Peplum.* New York, USA: New York Review Comics, 2016. Print.
+ - Alexander, William. *52 Loaves: One Man’s Relentless Pursuit of Truth, Meaning, and a Perfect Crust.* First Edition edition. Chapel Hill, N.C: Algonquin Books, 2010. Print.
+
+ - Blutch. *Peplum.* New York, USA: New York Review Comics, 2016. Print.
   
  - Branca, Andrew F. *The Law of Self Defense: The Indispensable Guide to the Armed Citizen.* 2nd edition. Maynard MA: Law of Self Defense, 2013. Print.
+  
+ - Campbell, Joseph. *Pathways to Bliss: Mythology and Personal Transformation.* Ed. David Kudler. Novato, Calif: New World Library, 2004. Print.
   
  - Evans, Rachel Held. *Searching for Sunday: Loving, Leaving, and Finding the Church.* MP3 Una edition. Thomas Nelson on Brilliance Audio, 2015. Print.
   
@@ -13,6 +17,8 @@
  - Popper, Nathaniel. *Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money.* Reprint edition. Harper Paperbacks, 2016. Print.
   
  - Collier, James Lincoln, and Christopher Collier. *The French and Indian War: 1660 - 1763.* Blackstone Publishing, 2012. Print.
+  
+ - Campbell, Joseph. *Pathways to Bliss: Mythology and Personal Transformation.* Ed. David Kudler. Novato, Calif: New World Library, 2004. Print.
   
 
 
