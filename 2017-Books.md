@@ -20,5 +20,6 @@
   
  - Campbell, Joseph. *Pathways to Bliss: Mythology and Personal Transformation.* Ed. David Kudler. Novato, Calif: New World Library, 2004. Print.
   
-
+ - Osinga, Frans. *Science, Strategy and War: The Strategic Theory of John Boyd (Strategy and History Series).* Routledge, 2006. Print.
+  
 
