@@ -6,6 +6,8 @@
   
  - Pagels, Elaine. *The Gnostic Gospels.* Random House, 2004. Print.
    
+ - Nichols, Tom. *The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters.* Oxford University Press, 2017. Print.
+  
 
 
 ##Non-Fiction  
