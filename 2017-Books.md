@@ -28,4 +28,6 @@
   
  - Irvine, William Braxton. *A Guide to the Good Life: The Ancient Art of Stoic Joy.* Oxford, New York: Oxford University Press, 2008. Print.
   
+ - Ash, Mel. *The Zen of Recovery.* 1 edition. New York, NY: TarcherPerigee, 1993. Print.
+  
 
