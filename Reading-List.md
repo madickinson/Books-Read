@@ -1,6 +1,6 @@
 ﻿#Reading List
 ##Next in Line  
- - Pigliucci, Massimo. *How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life.* N.p., 2017. Print.
+ - Rushkoff, Douglas. *Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity.* Portfolio, 2016. Print.
   
  - Crawford, Matthew B. *Shop Class as Soulcraft: An Inquiry into the Value of Work.* Penguin (Non-Classics), 2010. Print.
   
