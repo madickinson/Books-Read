@@ -8,6 +8,30 @@
    
  - Nichols, Tom. *The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters.* Oxford University Press, 2017. Print.
   
+ - The 13 Clocks  
+ - The Age of American Unreason
+ - Al Franken, Giant of the Senate  
+ - The Alchemist  
+ - The American Bible - Whose America Is This?  
+ - American Violence  
+ - Based on a True Story: A Memoir  
+ - The Battle for God  
+ - Bayes Theorem  
+ - Biblical Literalism: A Gentile Heresay  
+ - Black Earth  
+ - The Black Swan  
+ - Bloodlands: Europe Between Hitler and Stalin  
+ - Certain to Win  
+ - The Crucible  
+ - Dangerous Book for Men  
+ - Democracy in Chains  
+ - Don't Know Much About Mythology
+ - Don't Know Much About the Bible  
+ - Down and OUt in Paris and London  
+ - Drop the Rock  
+ - Eichmann in Jerusalem  
+ - Empire of the Summer Moon  
+ - The End of White Christian America  
 
 
 ##Non-Fiction  
