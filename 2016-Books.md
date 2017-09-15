@@ -14,7 +14,6 @@
 - Chernow, Ron. *Washington: A Life.* New York: Penguin Books, 2011. Print.
 - Coram, R. and Klein, B. (2002) *Boyd: The Fighter Pilot Who Changed the Art of War.* United States: Little, Brown and Company.
 - D’Este, Carlo, and Tom Weiner. *Warlord: A Life of Winston Churchill at War, 1874-1945.* Unabridged edition. Ashland, Or.: Blackstone Audio, Inc., 2009. Print.
- 
 - Duhigg, Charles, Mike Chamberlain, and Random House Audio. *The Power of Habit: Why We Do What We Do in Life and Business.* Random House Audio. Print.
 - Dormehl, Luke, Daniel Weyman, and LLC Gildan Media. *The Formula: How Algorithms Solve All Our Problems…and Create More.* Gildan Media, LLC. Print.
 - Freeberg, Ernest, Sean Pratt, and LLC Gildan Media. *The Age of Edison: Electric Light and the Invention of Modern America.* Gildan Media, LLC. Print.
