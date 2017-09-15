@@ -1,5 +1,5 @@
-﻿#Reading List
-##Next in Line  
+# Reading List  
+## Next in Line  
  - Rushkoff, Douglas. *Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity.* Portfolio, 2016. Print.
   
  - Crawford, Matthew B. *Shop Class as Soulcraft: An Inquiry into the Value of Work.* Penguin (Non-Classics), 2010. Print.
@@ -34,7 +34,7 @@
  - The End of White Christian America  
 
 
-##Non-Fiction  
+## Non-Fiction  
 - Jung, C. G. *Symbols of Transformation.* Trans. Gerhard Adler and R. F. C. Hull. 2nd ed. edition. Princeton University Press, 1967. Print.
   
 - Cummins, Antony et al. *True Path of the Ninja: The Definitive Translation of the Shoninki.* Tra edition. Tokyo ; Rutland, Vermont: Tuttle Publishing, 2017. Print.
@@ -132,7 +132,7 @@ Riedel, Bruce. Deadly Embrace: Pakistan, America, and the Future of the Global J
   
 
 
-##Fiction
+## Fiction
 - Cervantes, Miguel de. *Don Quixote (illustrated & Annotated)* - The Unabridged Classic Ormsby Translation Fully Illustrated by Gustave Doré. Trans. John Ormsby. e-artnow Editions, 2013. Print.
 - Danielewski, Mark Z. *House of Leaves.* 2nd edition. New York: Pantheon, 2000. Print.
 - Manfred, Frederick, Freya Manfred, and John R. Milton. *Lord Grizzly, Second Edition.* 2nd ed. edition. Lincoln: Bison Books, 2011. Print.
@@ -140,7 +140,7 @@ Riedel, Bruce. Deadly Embrace: Pakistan, America, and the Future of the Global J
 - Seton, Ernest Thompson. *Wild Animals I Have Known.* N.p. Print.
 
 
-##Unformatted 
+## Unformatted 
 - Denying to the Grave: Why We Ignore the Facts That Will Save Us  
 - Hashtag Republic  
 
