@@ -1,4 +1,4 @@
-﻿#2016 Books Read
+## 2016 Books Read
  
 - Armstrong, Karen. (2004) *Buddha.* Reprint edition. New York: Penguin Books, Print.
 - Armstrong, Karen. (2014) *Fields of Blood: Religion and the History of Violence* Hardcover Deckle Edge, October 28, 2014. 1st edition edition. knopf, Print.
