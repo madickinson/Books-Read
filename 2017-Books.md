@@ -1,4 +1,4 @@
-﻿#2017 Books Read
+## 2017 Books Read
  
  - Alexander, William. *52 Loaves: One Man’s Relentless Pursuit of Truth, Meaning, and a Perfect Crust.* First Edition edition. Chapel Hill, N.C: Algonquin Books, 2010. Print.
 
