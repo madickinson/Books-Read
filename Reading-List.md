@@ -1,40 +1,151 @@
-﻿#Reading List
-##Next in Line  
- - Rushkoff, Douglas. *Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity.* Portfolio, 2016. Print.
+﻿# Reading List  
+## Next in Line  
+
   
  - Crawford, Matthew B. *Shop Class as Soulcraft: An Inquiry into the Value of Work.* Penguin (Non-Classics), 2010. Print.
   
  - Pagels, Elaine. *The Gnostic Gospels.* Random House, 2004. Print.
    
  - Nichols, Tom. *The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters.* Oxford University Press, 2017. Print.
-  
- - The 13 Clocks  
- - The Age of American Unreason
- - Al Franken, Giant of the Senate  
- - The Alchemist  
- - The American Bible - Whose America Is This?  
- - American Violence  
- - Based on a True Story: A Memoir  
- - The Battle for God  
- - Bayes Theorem  
- - Biblical Literalism: A Gentile Heresay  
- - Black Earth  
- - The Black Swan  
- - Bloodlands: Europe Between Hitler and Stalin  
- - Certain to Win  
- - The Crucible  
- - Dangerous Book for Men  
- - Democracy in Chains  
- - Don't Know Much About Mythology
- - Don't Know Much About the Bible  
- - Down and OUt in Paris and London  
- - Drop the Rock  
- - Eichmann in Jerusalem  
- - Empire of the Summer Moon  
+ 
  - The End of White Christian America  
+ - Attracting Native Pollinators: The Xerces Society Guide to Conserving North American Bees and  -  - Butterflies and Their Habitat  
+ - Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful  -  - Indian Tribe in American History  
+ - Traditional Baking: The Foxfire Americana Library   
+ - The Power of Now  
+ - How Music Works  
+ - The Power of Myth  
+ - Danger of American Fascism  
+ - Backbone: History, Traditions, and Leadership Lessons of Marine Corps NCOs  
+ - The Alchemist - 10th Anniversary Edition  
+ - The Mind of War: John Boyd and American Security  
+ - Knife Fights: A Memoir of Modern War in Theory and Practice  
+ - The Way of the Knife: The CIA, a Secret Army, and a War at the Ends of the Earth  
+ - Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets  
+ - Neverisms: A Quotation Lover's Guide to Things You Should Never Do, Never Say, or Never Forget  
+ - Legionnaire: Five Years in the French Foreign Legion  
+ - One Man Against the World: The Tragedy of Richard Nixon  
+ - Murder Mysteries  
+ - Down and Out in Paris and London  
+ - Cryptanalysis: A Study of Ciphers and Their Solution  
+ - Warriors and Citizens: American Views of Our Military  
+ - Jerusalem: One City, Three Faiths  
+ - The Battle for God  
+ - Twelve Steps to a Compassionate Life  
+ - Fields of Blood: Religion and the History of Violence  
+ - The Black Swan: The Impact of the Highly Improbable  
+ - Churchill and Orwell: The Fight for Freedom  
+ - Legacy of Ashes: The History of the CIA  
+ - Enemies: A History of the FBI  
+ - American Violence  
+ - The American Political Tradition: And the Men Who Made It  
+ - The Age of American Unreason  
+ - In the Heart of the Sea (Young Readers Edition): The True Story of the Whaleship Essex  
+ - Code Talker: The First and Only Memoir by One of the Original Navajo Code Talkers of WWII  
+ - Why Read Moby-Dick?  
+ - A Collection of Essays  
+ - Grunt: The Curious Science of Humans at War  
+ - At Home: A Short History of Private Life  
+ - The Canon: A Whirligig Tour of the Beautiful Basics of Science  
+ - Made in America  
+ - Don't Know Much About Mythology: Everything You Need to Know About the Greatest Stories in Human History    - but Never Learned (Don't Know Much About Series)   
+ - Don't Know Much About the Bible: Everything You Need to Know About the Good Book but Never Learned  
+ - Bloodlands: Europe Between Hitler and Stalin  
+ - A Short History of Nearly Everything: Special Illustrated Edition  
+ - Fragile Things: Short Fictions and Wonders  
+ - Spook: Science Tackles the Afterlife  
+ - The Last Templar  
+ - History of World War I: The Western Front 1914–1916: From the Schlieffen Plan to Verdun and the Somme  
+ - Nothing Like It in the World: The Men Who Built the Transcontinental Railroad 1863-1869  
+ - The Origins of Totalitarianism  
+ - Tao of Jeet Kune Do: New Expanded Edition  
+ - London Under: The Secret History Beneath the Streets  
+ - Mindware: Tools for Smart Thinking  
+ - The Insidious Dr. Fu-Manchu  
+ - The Rubáiyát of Omar Khayyám  
+ - Confessions of an English Opium-Eater  
+ - Trigger Warning: Short Fictions and Disturbances  
+ - Mao Tse-Tung on Guerrilla Warfare  
+ - Certain to Win: The Strategy of John Boyd, Applied to Business  
+ - The Good War: An Oral History of World War II  
+ - Shop Class as Soulcraft: An Inquiry Into the Value of Work  
+ - Hard Times: An Oral History of the Great Depression  
+ - The Essential Charles Eastman (Ohiyesa): Light on the Indian World (The Spiritual Classics Series)  
+ - Biblical Literalism: A Gentile Heresy: A Journey Into a New Christianity Through the Doorway of Matthew's Gospel  
+ - The Facts on World Religions  
+ - The Waste Land and Other Poems (Penguin Classics)  
+ - Boyd: The Fighter Pilot Who Changed the Art of War  
+ - Deep Work: Rules for Focused Success in a Distracted World  
+ - The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left  
+ - The Parent's Tao Te Ching: Ancient Advice for Modern Parents  
+ - The Essays of Arthur Schopenhauer - Counsels and Maxims (Illustrated)  
+ - A Man in Full: A Novel  
+ - Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World  
+ - Nom De Plume: A (Secret) History of Pseudonyms  
+ - What We Think About When We Try Not to Think About Global Warming: Toward a New Psychology of Climate Action  
+ - The End of White Christian America  
+ - Liberty or Death: The French Revolution  
+ - Simplicity: The Freedom of Letting Go  
+ - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days  
+ - The Bread Baker's Apprentice: Mastering the Art of Extraordinary Bread  
+ - Living Buddha, Living Christ 10th Anniversary Edition  
+ - Imbeciles: The Supreme Court, American Eugenics, and the Sterilization of Carrie Buck  
+ - The Year of Voting Dangerously: The Derangement of American Politics  
+ - Hellboy in Mexico  
+ - Thermodynamics for Dummies  
+ - On Tyranny: Twenty Lessons From the Twentieth Century  
+ - The Gnôsis of the Light  
+ - Moral Combat: Good and Evil in World War II  
+ - The Lucifer Effect: Understanding How Good People Turn Evil  
+ - Nazis After Hitler: How Perpetrators of the Holocaust Cheated Justice and Truth  
+ - Left of Bang: How the Marine Corps' Combat Hunter Program Can Save Your Life  
+ - Drop the Rock: Removing Character Defects - Steps Six and Seven  
+ - How We Decide  
+ - On the Decay of the Art of Lying  
+ - History of Religion a Sketch of Primitive Religious Beliefs and Practices, and of the Origin and Character of the Great Systems  
+ - Superforecasting: The Art and Science of Prediction  
+ - Six Great Ideas  
+ - Storm in a Teacup: The Physics of Everyday Life  
+ - The Obstacle Is the Way: The Timeless Art of Turning Trials Into Triumph  
+ - Insane Clown President: Dispatches From the 2016 Circus  
+ - Democracy in Chains: The Deep History of the Radical Right's Stealth Plan for America  
+ - Four Laws That Drive the Universe  
+ - Silence: A Christian History  
+ - Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers  
+ - The Wisdom of Insecurity  
+ - War Against War: The American Fight for Peace, 1914-1918    
+ - Eichmann in Jerusalem: A Report on the Banality of Evil (Penguin Classics)  
+ - The Prehistory of Home  
+ - Introducing Quantum Theory: A Graphic Guide  
+ - The World Beyond Your Head: On Becoming an Individual in an Age of Distraction  
+ - Black Earth: The Holocaust as History and Warning  
+ - Physics Made Simple: A Complete Introduction to the Basic Principles of This Fundamental Science (Made    - Simple (Broadway Books))  
+ - Red Notice: A True Story of High Finance, Murder, and One Man’s Fight for Justice  
+ - The Gamble: General Petraeus and the American Military Adventure in Iraq  
+ - The 13 Clocks: (Penguin Classics Deluxe Edition)  
+ - The Open Society and Its Enemies  
+ - Wrapped in the Flag: A Personal History of America's Radical Right  
+ - The Crucible  
+ - The Righteous Mind: Why Good People Are Divided by Politics and Religion  
+ - Mind in the Balance: Meditation in Science, Buddhism, and Christianity  
+ - The Road  
+ - Based on a True Story: A Memoir  
+ - Ego Is the Enemy  
+ - Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment  
+ - The Gatekeepers: How the White House Chiefs of Staff Define Every Presidency  
+ - Rationality: From AI to Zombies  
+ - The Psychopath Test: A Journey Through the Madness Industry  
+ - Abraham Lincoln and the Structure of Reason  
+ - The American Bible-Whose America Is This?: How Our Words Unite, Divide, and Define a Nation  
+ - The Case Against Sugar  
+ - I Am a Strange Loop  
+ - Hallowed Ground: A Walk at Gettysburg  
+ - Confusion  
+ - On War  
+ - Beware of Pity  
 
 
-##Non-Fiction  
+## Non-Fiction  
 - Jung, C. G. *Symbols of Transformation.* Trans. Gerhard Adler and R. F. C. Hull. 2nd ed. edition. Princeton University Press, 1967. Print.
   
 - Cummins, Antony et al. *True Path of the Ninja: The Definitive Translation of the Shoninki.* Tra edition. Tokyo ; Rutland, Vermont: Tuttle Publishing, 2017. Print.
@@ -132,7 +243,7 @@ Riedel, Bruce. Deadly Embrace: Pakistan, America, and the Future of the Global J
   
 
 
-##Fiction
+## Fiction
 - Cervantes, Miguel de. *Don Quixote (illustrated & Annotated)* - The Unabridged Classic Ormsby Translation Fully Illustrated by Gustave Doré. Trans. John Ormsby. e-artnow Editions, 2013. Print.
 - Danielewski, Mark Z. *House of Leaves.* 2nd edition. New York: Pantheon, 2000. Print.
 - Manfred, Frederick, Freya Manfred, and John R. Milton. *Lord Grizzly, Second Edition.* 2nd ed. edition. Lincoln: Bison Books, 2011. Print.
@@ -140,7 +251,7 @@ Riedel, Bruce. Deadly Embrace: Pakistan, America, and the Future of the Global J
 - Seton, Ernest Thompson. *Wild Animals I Have Known.* N.p. Print.
 
 
-##Unformatted 
+## Unformatted 
 - Denying to the Grave: Why We Ignore the Facts That Will Save Us  
 - Hashtag Republic  
 
