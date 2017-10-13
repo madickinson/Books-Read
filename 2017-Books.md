@@ -9,7 +9,10 @@
  - Campbell, Joseph. *Pathways to Bliss: Mythology and Personal Transformation.* Ed. David Kudler. Novato, Calif: New World Library, 2004. Print.
   
  - Collier, James Lincoln, and Christopher Collier. *The French and Indian War: 1660 - 1763.* Blackstone Publishing, 2012. Print.
+ 
+ - Crawford, Matthew B. *Shop Class as Soulcraft.* Penguin USA, Inc., 2009.
   
+ 
  - Evans, Rachel Held. *Searching for Sunday: Loving, Leaving, and Finding the Church.* MP3 Una edition. Thomas Nelson on Brilliance Audio, 2015. Print.
   
  - Irvine, William Braxton. *A Guide to the Good Life: The Ancient Art of Stoic Joy.* Oxford, New York: Oxford University Press, 2008. Print.
@@ -23,11 +26,18 @@
  - Popper, Nathaniel. *Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money.* Reprint edition. Harper Paperbacks, 2016. Print.
   
  - Rushkoff, Douglas. *Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity.* Portfolio, 2016. Print.  
+
+ - Silver, Nate. *The Signal and the Noise: Why So Many Predictions Fail--but Some Don’t.* Penguin Press, 2012.
+  
   
  - Osinga, Frans. *Science, Strategy and War: The Strategic Theory of John Boyd (Strategy and History Series).* Routledge, 2006. Print.
   
  - Irvine, William Braxton. *A Guide to the Good Life: The Ancient Art of Stoic Joy.* Oxford, New York: Oxford University Press, 2008. Print.
   
- - Ash, Mel. *The Zen of Recovery.* 1 edition. New York, NY: TarcherPerigee, 1993. Print.
+ - Ash, Mel. *The Zen of Recovery.* 1 edition. New York, NY: TarcherPerigee, 1993. Print.  
+
+
+
+
   
 
