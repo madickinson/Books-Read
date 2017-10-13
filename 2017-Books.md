@@ -9,7 +9,10 @@
  - Campbell, Joseph. *Pathways to Bliss: Mythology and Personal Transformation.* Ed. David Kudler. Novato, Calif: New World Library, 2004. Print.
   
  - Collier, James Lincoln, and Christopher Collier. *The French and Indian War: 1660 - 1763.* Blackstone Publishing, 2012. Print.
+ 
+ - Crawford, Matthew B. *Shop Class as Soulcraft.* Penguin USA, Inc., 2009.
   
+ 
  - Evans, Rachel Held. *Searching for Sunday: Loving, Leaving, and Finding the Church.* MP3 Una edition. Thomas Nelson on Brilliance Audio, 2015. Print.
   
  - Irvine, William Braxton. *A Guide to the Good Life: The Ancient Art of Stoic Joy.* Oxford, New York: Oxford University Press, 2008. Print.
@@ -31,7 +34,9 @@
   
  - Irvine, William Braxton. *A Guide to the Good Life: The Ancient Art of Stoic Joy.* Oxford, New York: Oxford University Press, 2008. Print.
   
- - Ash, Mel. *The Zen of Recovery.* 1 edition. New York, NY: TarcherPerigee, 1993. Print.
+ - Ash, Mel. *The Zen of Recovery.* 1 edition. New York, NY: TarcherPerigee, 1993. Print.  
+
+
 
 
   
