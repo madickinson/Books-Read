@@ -1,5 +1,9 @@
 ﻿## 2017 Books Read
- 
+### Reading  
+ - Hartigan, Francis. *Bill W.: A Biography of Alcoholics Anonymous Cofounder Bill Wilson.* St. Martin’s Griffin, 2001.
+  
+
+### Read   
  - Alexander, William. *52 Loaves: One Man’s Relentless Pursuit of Truth, Meaning, and a Perfect Crust.* First Edition edition. Chapel Hill, N.C: Algonquin Books, 2010. Print.
 
  - Blutch. *Peplum.* New York, USA: New York Review Comics, 2016. Print.
