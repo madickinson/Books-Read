@@ -1,7 +1,6 @@
 ﻿## 2017 Books Read
 ### Reading  
- - Hartigan, Francis. *Bill W.: A Biography of Alcoholics Anonymous Cofounder Bill Wilson.* St. Martin’s Griffin, 2001.
-  
+
 
 ### Read   
  - Alexander, William. *52 Loaves: One Man’s Relentless Pursuit of Truth, Meaning, and a Perfect Crust.* First Edition edition. Chapel Hill, N.C: Algonquin Books, 2010. Print.
@@ -19,6 +18,9 @@
  
  - Evans, Rachel Held. *Searching for Sunday: Loving, Leaving, and Finding the Church.* MP3 Una edition. Thomas Nelson on Brilliance Audio, 2015. Print.
   
+ - Hartigan, Francis. *Bill W.: A Biography of Alcoholics Anonymous Cofounder Bill Wilson.* St. Martin’s Griffin, 2001.
+  
+
  - Irvine, William Braxton. *A Guide to the Good Life: The Ancient Art of Stoic Joy.* Oxford, New York: Oxford University Press, 2008. Print.
   
  - Kirkpatrick, Sidney, and Charles Stransky. *Hitler’s Holy Relics: A True Story of Nazi Plunder and the Race to Recover the Crown Jewels of the Holy Roman Empire.* Unabridged edition. Minneapolis, Minn.: HighBridge Audio, 2010. Print.
