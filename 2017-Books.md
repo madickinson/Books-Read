@@ -25,6 +25,9 @@
   
  - Loconte, Joseph. *A Hobbit, a Wardrobe, and a Great War: How J.R.R. Tolkien and C.S. Lewis Rediscovered Faith, Friendship, and Heroism in the Cataclysm of 1914-1918.* Reprint edition. Place of publication not identified: Thomas Nelson, 2017. Print.
   
+ - Nury, Fabien. *The Death of Stalin.* Titan Comics, 2017.
+  
+
  - Pigliucci, Massimo. *How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life.* N.p., 2017. Print.
   
  - Popper, Nathaniel. *Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money.* Reprint edition. Harper Paperbacks, 2016. Print.
@@ -39,6 +42,8 @@
  - Irvine, William Braxton. *A Guide to the Good Life: The Ancient Art of Stoic Joy.* Oxford, New York: Oxford University Press, 2008. Print.
   
  - Ash, Mel. *The Zen of Recovery.* 1 edition. New York, NY: TarcherPerigee, 1993. Print.  
+
+
 
 
 
