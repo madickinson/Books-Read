@@ -4,6 +4,7 @@
  - The Great Unknown  
  - The New Testament: A Translation  
  - The Black Swan: The Impact of the Highly Improbable  
+ - Bible Nation: The United States of Hobby Lobby  
 
 ### Reading  
 
