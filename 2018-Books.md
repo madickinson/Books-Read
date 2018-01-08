@@ -7,7 +7,9 @@
  - Bible Nation: The United States of Hobby Lobby  
  - A Saturnalia of Bunk: Selections from The Free Lance, 1911–1915  
  - Sinek, Simon. *Leaders Eat Last: Why Some Teams Pull Together and Others Don’t.* Reprint, Revised edition, Portfolio, 2017.
-
+  
+ - Gibney, Bruce Cannon. A Generation of Sociopaths: How the Baby Boomers Betrayed America. Hachette Books, 2017.
+  
 
 ### Reading  
 
