@@ -8,6 +8,8 @@
  - Impeachment: A Citizen's Guide - Cass Sunstein  
  - Young Radicals - Carter  
  - Crawford, Matthew B. *Shop Class as Soulcraft: An Inquiry into the Value of Work.* Penguin (Non-Classics), 2010. Print.
+ - Neustadt, Richard E. Presidential Power and the Modern Presidents: The Politics of Leadership from Roosevelt to Reagan. Revised edition, Free Press, 1991.
+
   
  - Pagels, Elaine. *The Gnostic Gospels.* Random House, 2004. Print.
    
