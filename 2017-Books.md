@@ -1,8 +1,5 @@
 ﻿## 2017 Books Read
-### Reading  
 
-
-### Read   
  - Alexander, William. *52 Loaves: One Man’s Relentless Pursuit of Truth, Meaning, and a Perfect Crust.* First Edition edition. Chapel Hill, N.C: Algonquin Books, 2010. Print.
 
  - Blutch. *Peplum.* New York, USA: New York Review Comics, 2016. Print.
