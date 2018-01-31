@@ -4,3 +4,5 @@
   
  - Levy, Yank. *Guerilla Warfare.* Penguin Books, 2008.
   
+ - Zoar. The Ohio Historical Society, 1960.
+  
