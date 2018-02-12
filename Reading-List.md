@@ -1,6 +1,5 @@
 ﻿# Reading List  
 ## Next in Line  
-
   
  - Freedom of Simplicity  
  - Simplify  
