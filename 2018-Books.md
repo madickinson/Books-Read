@@ -1,8 +1,7 @@
 ## 2018 Books Read
  
- - Gates, Robert M. *A Passion for Leadership: Lessons on Change and Reform from Fifty Years of Public Service.* Reprint edition, Vintage, 2017.
-  
- - Levy, Yank. *Guerilla Warfare.* Penguin Books, 2008.
-  
+ - Gates, Robert M. *A Passion for Leadership: Lessons on Change and Reform from Fifty Years of Public Service.* Reprint edition, Vintage, 2017.  
+ - Levy, Yank. *Guerilla Warfare.* Penguin Books, 2008.  
+ - Lind, William S. *Maneuver Warfare Handbook.* Westview Press, 1985.  
  - *Zoar*. The Ohio Historical Society, 1960.
   
