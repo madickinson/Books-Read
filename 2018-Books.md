@@ -9,6 +9,7 @@
  - *Zoar*. The Ohio Historical Society, 1960.  
  ---
  - Miller, Frank. *Daredevil: Born Again.* 12/21/09 edition, Marvel, 2010.  
+ - Campbell, Joseph, and Johnson E. Fairchild. *Myths to Live By.* Penguin Books, 1993.  
 
 
 
