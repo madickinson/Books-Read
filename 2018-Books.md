@@ -7,7 +7,8 @@
  - Lundy, Miranda. *Sacred Geometry.* Bloomsbury USA, 2001.  
  - Twain, Mark. *On the Decay of the Art of Lying.* CreateSpace Independent Publishing Platform, 2017.  
  - *Zoar*. The Ohio Historical Society, 1960.  
-
+ 
+ - Miller, Frank. *Daredevil: Born Again.* 12/21/09 edition, Marvel, 2010.  
 
 
 
