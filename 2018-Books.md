@@ -10,8 +10,5 @@
  - *Zoar*. The Ohio Historical Society, 1960.  
  ---
  - Campbell, Joseph, and Johnson E. Fairchild. *Myths to Live By.* Penguin Books, 1993.  
-
-
-
-
-  
+ - Lord, Walter. *The Miracle of Dunkirk.* Viking Press, 1982.  
+ - Snyder, Timothy. *On Tyranny: Twenty Lessons from the Twentieth Century.* 1st edition, Tim Duggan Books, 2017.   
