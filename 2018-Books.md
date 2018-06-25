@@ -13,3 +13,5 @@
 
  - Lord, Walter. *The Miracle of Dunkirk.* Viking Press, 1982.  
  - Snyder, Timothy. *On Tyranny: Twenty Lessons from the Twentieth Century.* 1st edition, Tim Duggan Books, 2017.   
+ - *Letters from a Stoic (A Penguin Classics Hardcover): Epistulae Morales Ad Lucilium.* Penguin Classics, 2014.  
+
