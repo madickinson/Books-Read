@@ -7,11 +7,11 @@
  - Lind, William S. *Maneuver Warfare Handbook.* Westview Press, 1985.  
  - Lundy, Miranda. *Sacred Geometry.* Bloomsbury USA, 2001.  
  - Miller, Frank. *Daredevil: Born Again.* 12/21/09 edition, Marvel, 2010.   
+  - Snyder, Timothy. *On Tyranny: Twenty Lessons from the Twentieth Century.* 1st edition, Tim Duggan Books, 2017.   
  - Twain, Mark. *On the Decay of the Art of Lying.* CreateSpace Independent Publishing Platform, 2017.  
  - *Zoar*. The Ohio Historical Society, 1960.  
  ---
 
  - Lord, Walter. *The Miracle of Dunkirk.* Viking Press, 1982.  
- - Snyder, Timothy. *On Tyranny: Twenty Lessons from the Twentieth Century.* 1st edition, Tim Duggan Books, 2017.   
  - *Letters from a Stoic (A Penguin Classics Hardcover): Epistulae Morales Ad Lucilium.* Penguin Classics, 2014.  
 
