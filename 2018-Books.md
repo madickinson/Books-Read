@@ -3,6 +3,7 @@
   - Brian, Christian, and Griffiths Tom. *Algorithms to Live By: The Computer Science of Human Decisions.* Reprint edition, Picador, 2017.  
  - Campbell, Joseph, and Johnson E. Fairchild. *Myths to Live By.* Penguin Books, 1993.  
  - Gates, Robert M. *A Passion for Leadership: Lessons on Change and Reform from Fifty Years of Public Service.* Reprint edition, Vintage, 2017.  
+ - *Letters from a Stoic (A Penguin Classics Hardcover): Epistulae Morales Ad Lucilium.* Penguin Classics, 2014.  
  - Levy, Yank. *Guerilla Warfare.* Penguin Books, 2008.  
  - Lind, William S. *Maneuver Warfare Handbook.* Westview Press, 1985.  
  - Lundy, Miranda. *Sacred Geometry.* Bloomsbury USA, 2001.  
@@ -14,5 +15,5 @@
  - *Zoar*. The Ohio Historical Society, 1960.  
  ---
  
- - *Letters from a Stoic (A Penguin Classics Hardcover): Epistulae Morales Ad Lucilium.* Penguin Classics, 2014.  
+ 
 
