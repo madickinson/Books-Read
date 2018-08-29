@@ -15,5 +15,6 @@
  - *Zoar*. The Ohio Historical Society, 1960.  
  ---
  
- 
+  - Shirer, William L. *The Rise and Fall of the Third Reich:The History Of Nazi Germany.* Simon & Schuster, 1969.
+
 
