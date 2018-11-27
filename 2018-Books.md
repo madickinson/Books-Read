@@ -14,7 +14,8 @@
  - Twain, Mark. *On the Decay of the Art of Lying.* CreateSpace Independent Publishing Platform, 2017.  
  - *Zoar*. The Ohio Historical Society, 1960.  
  - In Search of the Perfect Loaf.  
- _ Bringing up Bebe.  
+ - Bringing up Bebe.  
+ - Haunted Castles.  
  ---
  
   - Shirer, William L. *The Rise and Fall of the Third Reich:The History Of Nazi Germany.* Simon & Schuster, 1969.
