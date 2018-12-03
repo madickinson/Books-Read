@@ -16,6 +16,7 @@
  - In Search of the Perfect Loaf.  
  - Bringing up Bebe.  
  - Haunted Castles.  
+ _ Treatise on the Gods  
  ---
  
   - Shirer, William L. *The Rise and Fall of the Third Reich:The History Of Nazi Germany.* Simon & Schuster, 1969.
