@@ -17,6 +17,12 @@
  - Bringing up Bebe.  
  - Haunted Castles.  
  - Treatise on the Gods  
+ *   Mencken, H. L., and George H. Thompson. _Treatise on The Gods._ Baltimore: Johns Hopkins University Press, 1997\. Print.
+ *   Russell, Ray, and Guillermo Toro. _Haunted Castles : The Complete Gothic Stories._ New York, New York: Penguin Books, 2016\. Print.
+ *   Fromartz, Samuel. _In Search of the Perfect Loaf : A Home Baker's Odyssey._ New York: Viking, 2014\. Print.
+ *   Druckerman, Pamela. _Bringing up Bébé : One American Mother Discovers the Wisdom of French Parenting._ New York, New York: Penguin Books, 2014\. Print.
+ *   Marquet, L D. *Turn the Ship Around!: A True Story of Turning Followers into Leaders.* New York: Portfolio, 2012\. Print.
+ * How to Remember Anything: The Proven Total Memory Retention System
  ---
  
   - Shirer, William L. *The Rise and Fall of the Third Reich:The History Of Nazi Germany.* Simon & Schuster, 1969.
