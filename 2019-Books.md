@@ -8,3 +8,5 @@
   - Markings  
   - Masks of God: Occidental    
   - Help Your Kids With Music  
+  - Art of War  
+  - Oh Crap! Potty Training  
