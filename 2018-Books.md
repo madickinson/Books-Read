@@ -15,7 +15,7 @@
  - *Zoar*. The Ohio Historical Society, 1960.  
  - In Search of the Perfect Loaf.  
  - Haunted Castles.  
- - Treatise on the Gods  
+ - Treatise on the Gods   
  - Mencken, H. L., and George H. Thompson. _Treatise on The Gods._ Baltimore: Johns Hopkins University Press, 1997\. Print.
  - Russell, Ray, and Guillermo Toro. _Haunted Castles : The Complete Gothic Stories._ New York, New York: Penguin Books, 2016\. Print.
  - Fromartz, Samuel. _In Search of the Perfect Loaf : A Home Baker's Odyssey._ New York: Viking, 2014\. Print.
