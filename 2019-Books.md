@@ -7,3 +7,4 @@
   - Enjoyment of Music  
   - Markings  
   - Masks of God: Occidental    
+  - Help Your Kids With Music  
