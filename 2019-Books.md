@@ -4,14 +4,16 @@
   - The Little Prince  
 
  ### Reading   
-  - Enjoyment of Music  
   - Markings  
   - Masks of God: Occidental    
   - Help Your Kids With Music  
-  - Art of War  
   - Oh Crap! Potty Training  
   - BREAD  
   - The Rise and Fall of the Third Reich  
 
-  ## To Read
+  ### Learning Reading  
+ - Enjoyment of Music  
+ - The Art of War  
+
+  ### To Read
    - The Prince  
