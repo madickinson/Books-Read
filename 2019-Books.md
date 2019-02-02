@@ -11,7 +11,7 @@
   - BREAD  
   - The Rise and Fall of the Third Reich  
 
-  ### Learning Reading  
+  ### Reading to Learn    
  - Enjoyment of Music  
  - The Art of War  
 
