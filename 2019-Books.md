@@ -2,7 +2,8 @@
 
  ### Read  
   - The Little Prince  
-  - *Markings,* English translation, Faber & Faber, 1964 (Translators: Leif Sjöberg and W.H. Auden)    
+  - *Markings,* English translation, Faber & Faber, 1964 (Translators: Leif Sjöberg and W.H. Auden) 
+  -   Gibran, Kahlil. *The Prophet.* Alfred A Knopf, 1967.   
 
  ### Reading   
   - Digital Minimalism  
