@@ -6,6 +6,7 @@
   - Gibran, Kahlil. *The Prophet.* Alfred A Knopf, 1967.   
   - Newport, Cal. _Digital Minimalism: Choosing a Focused Life in a Noisy World._ Portfolio/Penguin, 2019.  
   - Machlis, Joseph and Kristine Forney. _The Enjoyment of Music: An Introduction to Perceptive Listening._ New York: W.W. Norton & Company, Inc., 2003\. Book. 2019  
+  - State of Ohio. _"LEANOhio Tool Kit."_ Ohio Department of Administrative Services, June 2014.
 
  ### Reading   
   - Ryrie, Alec. _Protestants: The Faith That Made the Modern World._ Viking, 2017.
