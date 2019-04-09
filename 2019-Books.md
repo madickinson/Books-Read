@@ -7,6 +7,8 @@
   - Newport, Cal. _Digital Minimalism: Choosing a Focused Life in a Noisy World._ Portfolio/Penguin, 2019.  
   - Machlis, Joseph and Kristine Forney. _The Enjoyment of Music: An Introduction to Perceptive Listening._ New York: W.W. Norton & Company, Inc., 2003\. Book. 2019  
   - State of Ohio. _LEANOhio Tool Kit._ Ohio Department of Administrative Services, June 2014.
+  - Florey, Kitty Burns. _Script & Scribble: The Rise and Fall of Handwriting._ Brooklyn: Melville House Publishing, 2009.
+  - Thomson, George L. "Better Handwriting." Harmondsworth: Penguin Books Ltd., 8 July 1955. 
 
  ### Reading   
   - Ryrie, Alec. _Protestants: The Faith That Made the Modern World._ Viking, 2017.
