@@ -11,9 +11,9 @@
   - Thomson, George L. "Better Handwriting." Harmondsworth: Penguin Books Ltd., 8 July 1955. 
 
  ### Reading   
+  - Getty, Barbara and Inga Dubay. _Write Now_. First. Portland: Continuing Education Press, 1986.
   - Ryrie, Alec. _Protestants: The Faith That Made the Modern World._ Viking, 2017.
  -  Aurelius, Marcus. _Meditations._ Trans. Gregory Hays. Modern Library, 2003.
- - Florey, Kitty Burns. _Script & Scribble: The Rise and Fall of Handwriting._ Brooklyn: Melville House Publishing, 2009.
   - Masks of God: Occidental    
   - Help Your Kids With Music  
   - Oh Crap! Potty Training  
