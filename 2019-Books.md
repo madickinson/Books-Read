@@ -10,6 +10,9 @@
   - Florey, Kitty Burns. _Script & Scribble: The Rise and Fall of Handwriting._ Brooklyn: Melville House Publishing, 2009.
   - Thomson, George L. "Better Handwriting." Harmondsworth: Penguin Books Ltd., 8 July 1955. 
   - Ryrie, Alec. _Protestants: The Faith That Made the Modern World._ Viking, 2017.
+  - Shepherd, Margaret. _The Art of the Personal Letter: A Guide to Connecting Through the Written Word._ New York: Broadway Books, 2008.  
+  - Way, Gerard and Gabriel Ba. _The Umbrella Academy_. Vol. One: Apocalypse Suite. Milwaukie: Dark Horse, 2008.
+
 
  ### Reading   
   - Getty, Barbara and Inga Dubay. _Write Now_. First. Portland: Continuing Education Press, 1986.
