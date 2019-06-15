@@ -1,4 +1,4 @@
-## 2019 Books Read  
+ ## 2019 Books Read  
 
  ### Read  
   - Saint-Exupéry, A. 2000. *The Little Prince.* San Diego: Mariner Books.   
@@ -12,6 +12,8 @@
   - Ryrie, Alec. _Protestants: The Faith That Made the Modern World._ Viking, 2017.
   - Shepherd, Margaret. _The Art of the Personal Letter: A Guide to Connecting Through the Written Word._ New York: Broadway Books, 2008.  
   - Way, Gerard and Gabriel Ba. _The Umbrella Academy_. Vol. One: Apocalypse Suite. Milwaukie: Dark Horse, 2008.
+  -  Way, Gerard and Gabriel Ba. _The Umbrella Academy. Vol. Two: Dallas_. Milwaukie: Dark Horse, 2009.
+  -   _"Socratic Methods."_ Wikiversity. 6 Dec 2018, 15:08 UTC. 6 Dec 2018, 15:08 [en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685](https://en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685).
 
 
  ### Reading   
