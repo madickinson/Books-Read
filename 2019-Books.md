@@ -12,13 +12,14 @@
   - Ryrie, Alec. _Protestants: The Faith That Made the Modern World._ Viking, 2017.
   - Shepherd, Margaret. _The Art of the Personal Letter: A Guide to Connecting Through the Written Word._ New York: Broadway Books, 2008.  
   - Way, Gerard and Gabriel Ba. _The Umbrella Academy_. Vol. One: Apocalypse Suite. Milwaukie: Dark Horse, 2008.
-  -  Way, Gerard and Gabriel Ba. _The Umbrella Academy. Vol. Two: Dallas_. Milwaukie: Dark Horse, 2009.
-  -   _"Socratic Methods."_ Wikiversity. 6 Dec 2018, 15:08 UTC. 6 Dec 2018, 15:08 [en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685](https://en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685).
+  - Way, Gerard and Gabriel Ba. _The Umbrella Academy. Vol. Two: Dallas_. Milwaukie: Dark Horse, 2009.
+  -  _"Socratic Methods."_ Wikiversity. 6 Dec 2018, 15:08 UTC. 6 Dec 2018, 15:08 [en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685](https://en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685).
 
 
  ### Reading   
+  - Trinity Book  
   - Getty, Barbara and Inga Dubay. _Write Now_. First. Portland: Continuing Education Press, 1986.
-  -  Aurelius, Marcus. _Meditations._ Trans. Gregory Hays. Modern Library, 2003.
+  - Aurelius, Marcus. _Meditations._ Trans. Gregory Hays. Modern Library, 2003.
   - Masks of God: Occidental    
   - Help Your Kids With Music  
   - Oh Crap! Potty Training  
