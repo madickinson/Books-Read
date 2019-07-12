@@ -17,6 +17,7 @@
   - Armstrong, Karen. _The Case for God_. New York: Anchor Books, 2010.    
 
  ### Reading   
+  - Field of Blood   
   - Trinity Book  
   - Getty, Barbara and Inga Dubay. _Write Now_. First. Portland: Continuing Education Press, 1986.
   - Aurelius, Marcus. _Meditations._ Trans. Gregory Hays. Modern Library, 2003.
