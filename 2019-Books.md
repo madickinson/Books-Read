@@ -15,6 +15,9 @@
   - Way, Gerard and Gabriel Ba. _The Umbrella Academy. Vol. Two: Dallas_. Milwaukie: Dark Horse, 2009.
   -  _"Socratic Methods."_ Wikiversity. 6 Dec 2018, 15:08 UTC. 6 Dec 2018, 15:08 [en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685](https://en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685).
   - Armstrong, Karen. _The Case for God_. New York: Anchor Books, 2010.    
+  - Millar, Mark, et al. Kingsman: The Secret Service. Image Comics, Inc., 2018.  
+
+
 
  ### Reading   
   - Field of Blood   
