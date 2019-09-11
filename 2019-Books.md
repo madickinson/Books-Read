@@ -19,6 +19,12 @@
   - Way, Gerard and Gabriel Ba. _The Umbrella Academy. Vol. Two: Dallas_. Milwaukie: Dark Horse, 2009.  
   - _"Socratic Methods."_ Wikiversity. 6 Dec 2018, 15:08 UTC. 6 Dec 2018, 15:08 [en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685](https://en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685).  
   - Armstrong, Karen. _The Case for God_. New York: Anchor Books, 2010.  
+  - Durant, William James, Ariel Durant and John Little. _The Lessons of History._ The Audio Partners Publishing Corporation, 2006\. Audiobook.
+  - Freeman, Joanne B. _The Field of Blood: Violence in Congress and the Road to Civil War._ New York: Farrar, Straus and Giroux, 2018.
+  - Holmes, Pete. _Comedy Sex God._ HarperAudio, 2019\. Audiobook.
+  - Millar, Mark and Peter Gross. _American Jesus, Volume 1: Chosen_. Berkeley: Image Comics, 2009\. Graphic Novel.
+  - Rohr, Richard. _The Divine Dance._ New Kensington: Whitaker House, 2016.
+  - Webber, Christopher L. _Welcome to the Episcopal Church._ New York: Church Publishing, 2017.
 
 
 
