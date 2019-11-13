@@ -25,4 +25,12 @@
   - Millar, Mark and Peter Gross. _American Jesus, Volume 1: Chosen_. Berkeley: Image Comics, 2009\. Graphic Novel.
   - Rohr, Richard. _The Divine Dance._ New Kensington: Whitaker House, 2016.
   - Webber, Christopher L. _Welcome to the Episcopal Church._ New York: Church Publishing, 2017.
+  - Ryan, Cornelius. _The Longest Day_. Blackstone Publishing, 2012\. Audiobook.
+  - Hinn, Costi H. _God, Greed, And The (Prosperity) Gospel: How Truth Overwhelms A Life Built On Lies_. Zondervan Audio, 2019\. Audiobook.
+  - Lakoff, George. _The All New Don't Think of an Elephant!_ White River Junction: Chelsea Green Publishing, 2014\. Paperback.
+  - Bell, Rob. _What is the Bible: How An Ancient Library of Poems, Letters, and Stories Can Transform the Way You Think and Feel About Everything._ HarperAudio, 2017\. Audiobook.
+  - Way, Gerard and Gabriel Ba. _The Umbrella Academy. Vol. Three: Hotel Oblivion_. Dark Horse Books, 2019
+  - Tillich, Paul. _Dynamics of Faith_. United Kingdom, HarperCollins, 2001.
+  - Young, Scott. _Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career._ United States, HarperBusiness, 2019.
+
 
