@@ -19,23 +19,18 @@
   - Way, Gerard and Gabriel Ba. _The Umbrella Academy. Vol. Two: Dallas_. Milwaukie: Dark Horse, 2009.  
   - _"Socratic Methods."_ Wikiversity. 6 Dec 2018, 15:08 UTC. 6 Dec 2018, 15:08 [en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685](https://en.wikiversity.org/w/index.php?title=Socratic_Methods&oldid=1955685).  
   - Armstrong, Karen. _The Case for God_. New York: Anchor Books, 2010.  
+  - Durant, William James, Ariel Durant and John Little. _The Lessons of History._ The Audio Partners Publishing Corporation, 2006\. Audiobook.
+  - Freeman, Joanne B. _The Field of Blood: Violence in Congress and the Road to Civil War._ New York: Farrar, Straus and Giroux, 2018.
+  - Holmes, Pete. _Comedy Sex God._ HarperAudio, 2019\. Audiobook.
+  - Millar, Mark and Peter Gross. _American Jesus, Volume 1: Chosen_. Berkeley: Image Comics, 2009\. Graphic Novel.
+  - Rohr, Richard. _The Divine Dance._ New Kensington: Whitaker House, 2016.
+  - Webber, Christopher L. _Welcome to the Episcopal Church._ New York: Church Publishing, 2017.
+  - Ryan, Cornelius. _The Longest Day_. Blackstone Publishing, 2012\. Audiobook.
+  - Hinn, Costi H. _God, Greed, And The (Prosperity) Gospel: How Truth Overwhelms A Life Built On Lies_. Zondervan Audio, 2019\. Audiobook.
+  - Lakoff, George. _The All New Don't Think of an Elephant!_ White River Junction: Chelsea Green Publishing, 2014\. Paperback.
+  - Bell, Rob. _What is the Bible: How An Ancient Library of Poems, Letters, and Stories Can Transform the Way You Think and Feel About Everything._ HarperAudio, 2017\. Audiobook.
+  - Way, Gerard and Gabriel Ba. _The Umbrella Academy. Vol. Three: Hotel Oblivion_. Dark Horse Books, 2019
+  - Tillich, Paul. _Dynamics of Faith_. United Kingdom, HarperCollins, 2001.
+  - Young, Scott. _Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career._ United States, HarperBusiness, 2019.
 
 
-
- ### Reading   
-  - Field of Blood   
-  - Trinity Book  
-  - Getty, Barbara and Inga Dubay. _Write Now_. First. Portland: Continuing Education Press, 1986.
-  - Aurelius, Marcus. _Meditations._ Trans. Gregory Hays. Modern Library, 2003.
-  - Masks of God: Occidental    
-  - Help Your Kids With Music  
-  - Oh Crap! Potty Training  
-  - BREAD  
-  - The Rise and Fall of the Third Reich  
-
-  ### Reading to Learn    
- - The Art of War  
-
-  ### To Read
-   - The Prince  
-   - Out of Your Mind, Alan Watts
