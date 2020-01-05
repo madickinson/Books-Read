@@ -32,8 +32,8 @@
   - Way, Gerard and Gabriel Ba. _The Umbrella Academy. Vol. Three: Hotel Oblivion_. Dark Horse Books, 2019
   - Tillich, Paul. _Dynamics of Faith_. United Kingdom, HarperCollins, 2001.
   - Young, Scott. _Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career._ United States, HarperBusiness, 2019.  
-*   Faber, Joanna, and King, Julie. _How to Talk So Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7_. United States, Scribner, 2017.
-*   Bell, Rob. _Velvet Elvis: Repainting the Christian Faith_. United States, HarperOne, 2012.
+  - Faber, Joanna, and King, Julie. _How to Talk So Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7_. United States, Scribner, 2017.
+  - Bell, Rob. _Velvet Elvis: Repainting the Christian Faith_. United States, HarperOne, 2012.
   - Dickens, Charles, and Robert Douglas-Fairhurst. *A Christmas Carol: And Other Christmas Stories.* , 2018. Print.  
 
 
