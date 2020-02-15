@@ -6,4 +6,5 @@
  - Wilson, Barbara S, Arlene Flancher, Susan T. Erdey, and Tobias S. Haller. *The Episcopal Handbook.* , 2015. Print.   
  - Plantinga, Cornelius. *Engaging God's World: A Christian Vision of Faith, Learning, and Living.* Grand Rapids, Mich: Eerdmans, 2002. Print. 
  - Hart, David B. *The Story of Christianity: A History of 2,000 Years of the Christian Faith.* , 2015. Print.  
+ - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(Mere Christianity)* San Francisco, Calif.: HarperSanFrancisco, 2007. Print.  
 
