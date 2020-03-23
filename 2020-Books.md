@@ -6,5 +6,8 @@
  - Wilson, Barbara S, Arlene Flancher, Susan T. Erdey, and Tobias S. Haller. *The Episcopal Handbook.* , 2015. Print.   
  - Plantinga, Cornelius. *Engaging God's World: A Christian Vision of Faith, Learning, and Living.* Grand Rapids, Mich: Eerdmans, 2002. Print. 
  - Hart, David B. *The Story of Christianity: A History of 2,000 Years of the Christian Faith.* , 2015. Print.  
- - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(Mere Christianity)* San Francisco, Calif.: HarperSanFrancisco, 2007. Print.  
-
+ - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(Mere Christianity)* San Francisco, Calif.: Harper San Francisco, 2007. Print.  
+ - Schenck, and Gunn. *Saintly Scorecard 2020: The Definitive Guide to Lent Madness. Saintly Scorecard 2020: The Definitive Guide to Lent Madness*, Forward Movement, 2020.  
+ - Epictetus, , and George Long. *Enchiridion*. , 1991.  
+ - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(The Screwtape Letters)* San Francisco, Calif.: Harper San Francisco, 2007. Print.  
+ - Hart, David B. *That All Shall Be Saved: Heaven, Hell, and Universal Salvation.* , 2019. Print.  
