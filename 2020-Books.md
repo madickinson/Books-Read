@@ -15,3 +15,5 @@
  - Knisely, W N. Lent Is Not Rocket Science: An Exploration of God, Creation, and the Cosmos : Meditations for 40 Days of Lent. New York, N.Y: Morehouse Publishing, 2013. Print.  
  - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(Miracles)* San Francisco, Calif.: Harper San Francisco, 2007. Print.  
  - *An Everyday Guide to the Metric System.* Chicago, Ill: Science Research Association, 1976. Print.   
+ - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(The Great Divorce)* San Francisco, Calif.: Harper San Francisco, 2007. Print.  
+ - Kitch, Anne E, James F. Turrell, and Tracey E. Herzer. *Preparing for Baptism in the Episcopal Church.* New York: Morehouse Publishing, 2015. Print.  
