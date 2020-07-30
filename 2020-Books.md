@@ -18,3 +18,4 @@
  - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(The Great Divorce)* San Francisco, Calif.: Harper San Francisco, 2007. Print.  
  - Kitch, Anne E, James F. Turrell, and Tracey E. Herzer. *Preparing for Baptism in the Episcopal Church.* New York: Morehouse Publishing, 2015. Print.  
  - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(The Problem of Pain)* San Francisco, Calif.: Harper San Francisco, 2007. Print.  
+ - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(A Grief Observed)* San Francisco, Calif.: Harper San Francisco, 2007. Print.  
