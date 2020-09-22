@@ -20,4 +20,4 @@
  - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(The Problem of Pain)* San Francisco, Calif.: Harper San Francisco, 2007. Print.  
  - Lewis, C S. *The Complete C.S. Lewis Signature Classics.(A Grief Observed)* San Francisco, Calif.: Harper San Francisco, 2007. Print.  
  - Harrington, Joel F. *Dangerous Mystic: Meister Eckhart's Path to the God Within.* , 2018. Print.
- - Black, Vicki K.. *Welcome to the Book of Common Prayer.* United States, Morehouse Pub., 2005.  
+ - Black, Vicki K. *Welcome to the Book of Common Prayer.* United States, Morehouse Pub., 2005.  
