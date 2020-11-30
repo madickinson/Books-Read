@@ -22,4 +22,4 @@
  - Harrington, Joel F. *Dangerous Mystic: Meister Eckhart's Path to the God Within.* , 2018. Print.
  - Black, Vicki K. *Welcome to the Book of Common Prayer.* United States, Morehouse Pub., 2005.  
  - Clarke, Susanna. *Piranesi.* United Kingdom, Bloomsbury USA, 2020.  
- - Dahl, Roald. *The Witches.*  
+ - Dahl, Roald, and Quentin Blake. *The Witches.* New York: Puffin Books, 2019. Print.  
