@@ -23,3 +23,4 @@
  - Black, Vicki K. *Welcome to the Book of Common Prayer.* United States, Morehouse Pub., 2005.  
  - Clarke, Susanna. *Piranesi.* United Kingdom, Bloomsbury USA, 2020.  
  - Dahl, Roald, and Quentin Blake. *The Witches.* New York: Puffin Books, 2019. Print.  
+ - Clarke, Susanna. Jonathan Strange & Mr. Norrell. India, Bloomsbury USA, 2005.  
