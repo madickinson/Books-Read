@@ -5,3 +5,4 @@
  - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (The Lion, the Witch and the Wardrobe: A Story for Children.*). N.p., Delphi Classics, 2017.  
  - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (Prince Caspian: The Return to Narnia.*). N.p., Delphi Classics, 2017.  
   - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (The Silver Chair.*). N.p., Delphi Classics, 2017.  
+   - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (The Horse and His Boy.*). N.p., Delphi Classics, 2017.  
