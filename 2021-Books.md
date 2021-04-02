@@ -7,3 +7,4 @@
  - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (The Silver Chair.*). N.p., Delphi Classics, 2017.  
  - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (The Horse and His Boy.*). N.p., Delphi Classics, 2017.  
  - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (The Magician's Nephew.*). N.p., Delphi Classics, 2017.  
+ - Lewis, C. S.. *Words to Live By: A Guide for the Merely Christian.* United Kingdom, HarperCollins, 2007.  
