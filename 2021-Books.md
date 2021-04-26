@@ -7,6 +7,7 @@
  - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (The Silver Chair.*). N.p., Delphi Classics, 2017.  
  - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (The Horse and His Boy.*). N.p., Delphi Classics, 2017.  
  - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (The Magician's Nephew.*). N.p., Delphi Classics, 2017.  
+ - Lewis, C. S.. *Delphi Complete Works of C. S. Lewis (Illustrated) (The Last Battle.*). N.p., Delphi Classics, 2017.  
  - Lewis, C. S.. *Words to Live By: A Guide for the Merely Christian.* United Kingdom, HarperCollins, 2007.  
  - Gawande, Atul. *Being Mortal: Illness, Medicine and What Matters in the End.* United Kingdom, Profile Books, 2015.  
  - Lewis, C. S.. *Reflections on the Psalms.* United States, HarperCollins, 2017.  
