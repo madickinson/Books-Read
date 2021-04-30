@@ -11,3 +11,4 @@
  - Lewis, C. S.. *Words to Live By: A Guide for the Merely Christian.* United Kingdom, HarperCollins, 2007.  
  - Gawande, Atul. *Being Mortal: Illness, Medicine and What Matters in the End.* United Kingdom, Profile Books, 2015.  
  - Lewis, C. S.. *Reflections on the Psalms.* United States, HarperCollins, 2017.  
+ - Fischer, Bobby, et al. *Bobby Fischer Teaches Chess.* Taiwan, Bantam, 1982.  
