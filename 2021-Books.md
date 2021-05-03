@@ -12,3 +12,4 @@
  - Gawande, Atul. *Being Mortal: Illness, Medicine and What Matters in the End.* United Kingdom, Profile Books, 2015.  
  - Lewis, C. S.. *Reflections on the Psalms.* United States, HarperCollins, 2017.  
  - Fischer, Bobby, et al. *Bobby Fischer Teaches Chess.* Taiwan, Bantam, 1982.  
+ - Seidule, Ty. *Robert E. Lee and Me: A Southerner's Reckoning with the Myth of the Lost Cause.* United States, St. Martin's Publishing Group, 2021.  
