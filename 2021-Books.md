@@ -13,3 +13,4 @@
  - Lewis, C. S.. *Reflections on the Psalms.* United States, HarperCollins, 2017.  
  - Fischer, Bobby, et al. *Bobby Fischer Teaches Chess.* Taiwan, Bantam, 1982.  
  - Seidule, Ty. *Robert E. Lee and Me: A Southerner's Reckoning with the Myth of the Lost Cause.* United States, St. Martin's Publishing Group, 2021.  
+ - Kix, Paul. *The Saboteur: The Aristocrat Who Became France's Most Daring Anti-Nazi Commando.* United States, Harper, 2017.  
