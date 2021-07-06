@@ -16,4 +16,6 @@
  - Kix, Paul. *The Saboteur: The Aristocrat Who Became France's Most Daring Anti-Nazi Commando.* United States, Harper, 2017.  
  - Epstein, David. *Range: Why Generalists Triumph in a Specialized World.* United States, Penguin Publishing Group, 2021.  
  - Wirick, David. *Public-Sector Project Management: Meeting the Challenges and Achieving Results.* United Kingdom, Wiley, 2009.  
- - Alan Watts
+ - Alan Watts.  
+ - The Lean Builder.  
+
