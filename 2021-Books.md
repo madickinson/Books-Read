@@ -16,7 +16,7 @@
  - Kix, Paul. *The Saboteur: The Aristocrat Who Became France's Most Daring Anti-Nazi Commando.* United States, Harper, 2017.  
  - Epstein, David. *Range: Why Generalists Triumph in a Specialized World.* United States, Penguin Publishing Group, 2021.  
  - Wirick, David. *Public-Sector Project Management: Meeting the Challenges and Achieving Results.* United Kingdom, Wiley, 2009.  
- - Alan Watts.  
- - The Lean Builder.  
- - Calling Bullshit.  
+ - Watts, Alan. *Out of Your Mind: Tricksters, Interdependence, and the Cosmic Game of Hide and Seek.* United States, Sounds True, 2017.  
+ - Donarumo, Joe, and Zandy, Keyan. *The Lean Builder: A Builder's Guide to Applying Lean Tools in the Field.* United States, LULU PUB SERV, 2019.  
+ - West, Jevin Darwin, and Bergstrom, Carl T.. *Calling Bullshit: The Art of Skepticism in a Data-driven World.* United States, Random House, 2021.  
 
