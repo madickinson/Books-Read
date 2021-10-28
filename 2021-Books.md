@@ -20,3 +20,6 @@
  - Donarumo, Joe, and Zandy, Keyan. *The Lean Builder: A Builder's Guide to Applying Lean Tools in the Field.* United States, LULU PUB SERV, 2019.  
  - West, Jevin Darwin, and Bergstrom, Carl T.. *Calling Bullshit: The Art of Skepticism in a Data-driven World.* United States, Random House, 2021.  
  - Burrough, Bryan, et al. *Forget the Alamo: The Rise and Fall of an American Myth.* United States, Penguin Publishing Group, 2021.  
+ - Carter, Angela. *The Bloody Chamber and Other Stories.* United Kingdom, Random House, 2012.  
+ - Mann, Charles C.. *1493: Uncovering the New World Columbus Created.* United States, Knopf Doubleday Publishing Group, 2011.  
+ - Newport, Cal. *A World Without Email: Reimagining Work in an Age of Communication Overload.* United States, Penguin Publishing Group, 2021.
