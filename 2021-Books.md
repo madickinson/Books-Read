@@ -24,4 +24,5 @@
  - Mann, Charles C.. *1493: Uncovering the New World Columbus Created.* United States, Knopf Doubleday Publishing Group, 2011.  
  - Newport, Cal. *A World Without Email: Reimagining Work in an Age of Communication Overload.* United States, Penguin Publishing Group, 2021.
  - Roberts, J. M. *A History of Europe.* New York, N.Y., U.S.A: Allen Lane, 1997. Print.  
+ - Dickens, Charles. *A Christmas Carol* Print.  
  - Kelly, Joseph Francis. *The Origins of Christmas.* United States, Liturgical Press, 2004.  
