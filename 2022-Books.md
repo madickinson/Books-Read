@@ -5,3 +5,4 @@
  - Gunn, Scott, and Wilson Shobe, Melody. *Walk in Love: Episcopal Beliefs and Practices.* United States, Forward Movement Publications, 2018.  
  - Nury, Fabien. *Death To The Tsar.* United Kingdom, Titan, 2018.  
  - Vaughan, Brian K.. "Saga: Book One." United States, Image Comics, 2014.  
+ - Gaiman, Neil, and Kubert, Andy. *Marvel 1602: 10th Anniversary Edition.* United States, Marvel, 2013.  
