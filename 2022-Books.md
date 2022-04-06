@@ -6,4 +6,5 @@
  - Nury, Fabien. *Death To The Tsar.* United Kingdom, Titan, 2018.  
  - Vaughan, Brian K.. "Saga: Book One." United States, Image Comics, 2014.  
  - Gaiman, Neil, and Kubert, Andy. *Marvel 1602: 10th Anniversary Edition.* United States, Marvel, 2013.  
-  - Kutscher, Volker, and Jysch, Arne. *Babylon Berlin.* United Kingdom, Titan, 2018.  
+ - Kutscher, Volker, and Jysch, Arne. *Babylon Berlin.* United Kingdom, Titan, 2018.  
+ - Kirkman, Robert. *The Walking Dead Compendium Volume 4.* United States, Image Comics, 2019.  
