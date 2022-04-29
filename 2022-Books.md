@@ -8,3 +8,4 @@
  - Gaiman, Neil, and Kubert, Andy. *Marvel 1602: 10th Anniversary Edition.* United States, Marvel, 2013.  
  - Kutscher, Volker, and Jysch, Arne. *Babylon Berlin.* United Kingdom, Titan, 2018.  
  - Kirkman, Robert. *The Walking Dead Compendium Volume 4.* United States, Image Comics, 2019.  
+ - Doerr, Anthony. *All the Light We Cannot See: A Novel.* United States, Scribner, 2017.  
