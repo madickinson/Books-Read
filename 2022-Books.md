@@ -9,3 +9,4 @@
  - Kutscher, Volker, and Jysch, Arne. *Babylon Berlin.* United Kingdom, Titan, 2018.  
  - Kirkman, Robert. *The Walking Dead Compendium Volume 4.* United States, Image Comics, 2019.  
  - Doerr, Anthony. *All the Light We Cannot See: A Novel.* United States, Scribner, 2017.  
+ - Beard, Mary. *S.P.Q.R.: A History of Ancient Rome.* United States, Liveright, 2015.  
