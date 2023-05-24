@@ -5,5 +5,6 @@
  - Gaiman, Neil. *The Sandman: Overture 30th Anniversary Edition*. Illustrated by J.H. Williams III, DC Black Label, 2020.  
  - Baum, Lyman Frank. *The Wonderful Wizard of Oz* from  *The Wizard of Oz: The First Five Novels.* United States, Barnes & Noble, Incorporated, 2013, pp 1-??.  
  - Bolz-Weber, Nadia. *Accidental Saints: Finding God in All the Wrong People.* United States, Crown Publishing Group, 2016.  
- - Tolkien J. R. R and Douglas A Anderson. ***The Hobbit or There and Back Again** ; the Fellowship of the Ring ; the Two Towers ; the Return of the King.* Houghton Mifflin Harcourt 2014.  
+ - Tolkien J. R. R and Douglas A Anderson. ***The Hobbit or There and Back Again** ; The Fellowship of the Ring ; The Two Towers ; The Return of the King.* Houghton Mifflin Harcourt 2014.  
  - Larson, Erik. *Dead Wake: The Last Crossing of the Lusitania.* United States, Crown, 2015.  
+ - Tolkien J. R. R and Douglas A Anderson. *The Hobbit or There and Back Again ; **The Fellowship of the Ring** ; The Two Towers ; The Return of the King.* Houghton Mifflin Harcourt 2014.
