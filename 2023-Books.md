@@ -7,4 +7,5 @@
  - Bolz-Weber, Nadia. *Accidental Saints: Finding God in All the Wrong People.* United States, Crown Publishing Group, 2016.  
  - Tolkien J. R. R and Douglas A Anderson. ***The Hobbit or There and Back Again** ; The Fellowship of the Ring ; The Two Towers ; The Return of the King.* Houghton Mifflin Harcourt 2014.  
  - Larson, Erik. *Dead Wake: The Last Crossing of the Lusitania.* United States, Crown, 2015.  
- - Tolkien J. R. R and Douglas A Anderson. *The Hobbit or There and Back Again ; **The Fellowship of the Ring** ; The Two Towers ; The Return of the King.* Houghton Mifflin Harcourt 2014.
+ - Tolkien J. R. R and Douglas A Anderson. *The Hobbit or There and Back Again ; **The Fellowship of the Ring** ; The Two Towers ; The Return of the King.* Houghton Mifflin Harcourt 2014.  
+ - Tolkien J. R. R and Douglas A Anderson. *The Hobbit or There and Back Again ; The Fellowship of the Ring ; **The Two Towers** ; The Return of the King.* Houghton Mifflin Harcourt 2014.  
