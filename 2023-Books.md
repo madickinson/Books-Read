@@ -10,3 +10,4 @@
  - Tolkien J. R. R and Douglas A Anderson. *The Hobbit or There and Back Again ; **The Fellowship of the Ring** ; The Two Towers ; The Return of the King.* Houghton Mifflin Harcourt 2014.  
  - Tolkien J. R. R and Douglas A Anderson. *The Hobbit or There and Back Again ; The Fellowship of the Ring ; **The Two Towers** ; The Return of the King.* Houghton Mifflin Harcourt 2014.  
 - Tolkien J. R. R and Douglas A Anderson. *The Hobbit or There and Back Again ; The Fellowship of the Ring ; The Two Towers ; **The Return of the King.*** Houghton Mifflin Harcourt 2014.  
+ - Bryson, Bill. *One Summer: America, 1927.* United States, Doubleday, 2013.  
