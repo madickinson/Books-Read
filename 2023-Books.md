@@ -11,3 +11,5 @@
  - Tolkien J. R. R and Douglas A Anderson. *The Hobbit or There and Back Again ; The Fellowship of the Ring ; **The Two Towers** ; The Return of the King.* Houghton Mifflin Harcourt 2014.  
 - Tolkien J. R. R and Douglas A Anderson. *The Hobbit or There and Back Again ; The Fellowship of the Ring ; The Two Towers ; **The Return of the King.*** Houghton Mifflin Harcourt 2014.  
  - Bryson, Bill. *One Summer: America, 1927.* United States, Doubleday, 2013.  
+ - Hasan, Mehdi. *Win Every Argument: The Art of Debating, Persuading, and Public Speaking.* United States, Henry Holt and Company, 2023.  
+ - Nestor, James. *Breath: The New Science of a Lost Art.* United Kingdom, Penguin Publishing Group, 2020.  
