@@ -15,3 +15,4 @@
  - Nestor, James. *Breath: The New Science of a Lost Art.* United Kingdom, Penguin Publishing Group, 2020.  
  - Lukacs, John. *Five Days in London, May 1940.* United Kingdom, Yale University Press, 2001.  
  - Goldman, William. *The Princess Bride.* Great Britain, Bloomsbury, 1999.  
+ - Clarke, Susanna. *Jonathan Strange & Mr Norrell.* Bloomsbury USA, 2004.  
