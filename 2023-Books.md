@@ -16,3 +16,4 @@
  - Lukacs, John. *Five Days in London, May 1940.* United Kingdom, Yale University Press, 2001.  
  - Goldman, William. *The Princess Bride.* Great Britain, Bloomsbury, 1999.  
  - Clarke, Susanna. *Jonathan Strange & Mr Norrell.* Bloomsbury USA, 2004.  
+ - Coram Robert. *Boyd : The Fighter Pilot Who Changed the Art of War.* 1st Back Bay pbk. ed. Back Bay Books/Little Brown 2004 2002.  
