@@ -17,3 +17,5 @@
  - Goldman, William. *The Princess Bride.* Great Britain, Bloomsbury, 1999.  
  - Clarke, Susanna. *Jonathan Strange & Mr Norrell.* Bloomsbury USA, 2004.  
  - Coram Robert. *Boyd : The Fighter Pilot Who Changed the Art of War.* 1st Back Bay pbk. ed. Back Bay Books/Little Brown 2004 2002.  
+ * Herbert Frank. *Dune.* Ace special 25th anniversary ed. Berkley 1990 1965.  
+ * Holiday Ryan. *The Obstacle Is the Way : The Timeless Art of Turning Trials into Triumph.* Portfolio/Penguin 2014.
