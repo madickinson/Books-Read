@@ -18,4 +18,5 @@
  - Clarke, Susanna. *Jonathan Strange & Mr Norrell.* Bloomsbury USA, 2004.  
  - Coram Robert. *Boyd : The Fighter Pilot Who Changed the Art of War.* 1st Back Bay pbk. ed. Back Bay Books/Little Brown 2004 2002.  
  * Herbert Frank. *Dune.* Ace special 25th anniversary ed. Berkley 1990 1965.  
- * Holiday Ryan. *The Obstacle Is the Way : The Timeless Art of Turning Trials into Triumph.* Portfolio/Penguin 2014.
+ * Holiday Ryan. *The Obstacle Is the Way : The Timeless Art of Turning Trials into Triumph.* Portfolio/Penguin 2014.  
+ - Houston, Keith. *Empire of the Sum: the rise and reign of the pocket calculator.* New York : W.W. Norton & Company, 2023. p. 374.  
