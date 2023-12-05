@@ -21,3 +21,4 @@
  * Holiday Ryan. *The Obstacle Is the Way : The Timeless Art of Turning Trials into Triumph.* Portfolio/Penguin 2014.  
  - Houston, Keith. *Empire of the Sum: the rise and reign of the pocket calculator.* New York : W.W. Norton & Company, 2023. p. 374.  
  - Currey, Mason. *Daily Rituals: How Artists Work.* United States, Knopf Doubleday Publishing Group, 2013.  
+ - A Christmas Carol.  
