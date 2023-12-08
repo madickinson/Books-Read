@@ -22,3 +22,4 @@
  - Houston, Keith. *Empire of the Sum: the rise and reign of the pocket calculator.* New York : W.W. Norton & Company, 2023. p. 374.  
  - Currey, Mason. *Daily Rituals: How Artists Work.* United States, Knopf Doubleday Publishing Group, 2013.  
  - A Christmas Carol.  
+ - Dunbar-Ortiz Roxanne et al. *An Indigenous Peoples' History of the United States for Young People.* Beacon Press 2019.  
