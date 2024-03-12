@@ -23,5 +23,5 @@
  * Holiday Ryan. *The Obstacle Is the Way : The Timeless Art of Turning Trials into Triumph.* Portfolio/Penguin 2014.  
  - Houston, Keith. *Empire of the Sum: the rise and reign of the pocket calculator.* New York : W.W. Norton & Company, 2023. p. 374.  
  - Currey, Mason. *Daily Rituals: How Artists Work.* United States, Knopf Doubleday Publishing Group, 2013.  
- - A Christmas Carol.  
+ - *Dickens, Charles. A Christmas Carol and Other Stories.* [ed.] Robert Douglas-Fairhurst. s.l. : Oxford University Press, 2018. p. 496. 9780198822394.  
  - Dunbar-Ortiz Roxanne et al. *An Indigenous Peoples' History of the United States for Young People.* Beacon Press 2019.  
