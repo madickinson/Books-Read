@@ -4,4 +4,5 @@
   - Bryson Bill. *A Walk in the Woods : Rediscovering America on the Appalachian Trail.* Broadway Books 1998. 
  - McRaven, William H.. *The Wisdom of the Bullfrog: Leadership Made Simple (but Not Easy).* United States, Grand Central Publishing, 2023.  
  - Parker, Priya. *The Art of Gathering: How We Meet and Why It Matters.* United States, Penguin Publishing Group, 2018.  
- - Gaiman, Neil. *The Annotated American Gods.* United States, HarperCollins, 2019.  
+ - Gaiman, Neil. *The Annotated American Gods.* United States, HarperCollins, 2019. 
+ - Harris, Dan. *10% happier: how I tamed the voice in my head, reduced stress without losing my edge, and found self-help that actually works-a true story.* New York : Deyst., 2024. p. 251.   
