@@ -8,3 +8,4 @@
  - Harris, Dan. *10% happier: how I tamed the voice in my head, reduced stress without losing my edge, and found self-help that actually works-a true story.* New York : Deyst., 2024. p. 251.   
  - Chronicles of Narnia.  
  - Benson, Jim, and DeMaria Barry, Tonianne. *Personal Kanban: Mapping Work, Navigating Life.* United States, Modus Cooperandi Press, 2011.  
+ - Maguire, Gregory. *Hiddensee: A Tale of the Once and Future Nutcracker.* United States, HarperCollins, 2017.  
