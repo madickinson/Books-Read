@@ -10,3 +10,4 @@
  - Benson, Jim, and DeMaria Barry, Tonianne. *Personal Kanban: Mapping Work, Navigating Life.* United States, Modus Cooperandi Press, 2011.  
  - Maguire, Gregory. *Hiddensee: A Tale of the Once and Future Nutcracker.* United States, HarperCollins, 2017.  
  - White, T. H.. *The Once and Future King.* United States, Penguin Publishing Group, 2011.  
+ - Grann, David. *The Wager : A Tale of Shipwreck, Mutiny, and Murder.* First edition, Doubleday, 2023.  
