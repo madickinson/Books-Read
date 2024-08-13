@@ -12,3 +12,4 @@
  - White, T. H.. *The Once and Future King.* United States, Penguin Publishing Group, 2011.  
  - Grann, David. *The Wager : A Tale of Shipwreck, Mutiny, and Murder.* First edition, Doubleday, 2023.  
  - Lord, Walter. *The Miracle of Dunkirk : The True Story of Operation Dynamo.* Open Road Integrated Media, 2017.  
+ - White, T. H. *The Book of Merlyn.* Ace Books, 2013.  
