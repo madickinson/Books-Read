@@ -14,3 +14,4 @@
  - Lord, Walter. *The Miracle of Dunkirk : The True Story of Operation Dynamo.* Open Road Integrated Media, 2017.  
  - White, T. H. *The Book of Merlyn.* Ace Books, 2013.  
  - Green, James R. *The Devil Is Here in These Hills : West Virginia’s Coal Miners and Their Battle for Freedom.* First edition, Atlantic Monthly Press, 2015.  
+ - Comer, John Mark. *Practicing the Way : Be with Jesus, Become like Him, Do as He Did.* First edition, WaterBrook, 2024.
