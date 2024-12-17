@@ -20,3 +20,4 @@
  - Moore, Alan. *The League of Extraordinary Gentlemen, the Omnibus Edition. ,* Illustrated by Kevin O’Neill, DC Comics, 2011.  
  - Kibuishi, Kazu. *Amulet. Vol. 1 the Stonekeeper*. 1st ed, Graphix, 2008.  
  - Lewis, C. S. *Mere Christianity : A Revised and Amplified Edition, with a New Introduction, of the Three Books, Broadcast Talks, Christian Behaviour, and beyond Personality.* HarperCollins ed, HarperSanFrancisco, 1952.  
+ - *Dickens, Charles. A Christmas Carol and Other Stories.* [ed.] Robert Douglas-Fairhurst. s.l. : Oxford University Press, 2018. p. 496. 9780198822394.  
