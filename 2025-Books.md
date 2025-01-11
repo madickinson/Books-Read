@@ -1,0 +1,1 @@
+ - Herron, Mick. *Slow Horses. Deluxe tenth anniversary edition*, Soho Crime, 2020.  
