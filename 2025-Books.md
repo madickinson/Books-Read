@@ -1,1 +1,2 @@
  - Herron, Mick. *Slow Horses. Deluxe tenth anniversary edition*, Soho Crime, 2020.  
+ - Herron, Mick. *Dead Lions.* Soho Crime, an imprint of Soho Press Inc, 2013.  
