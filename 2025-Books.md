@@ -1,2 +1,4 @@
  - Herron, Mick. *Slow Horses. Deluxe tenth anniversary edition*, Soho Crime, 2020.  
  - Herron, Mick. *Dead Lions.* Soho Crime, an imprint of Soho Press Inc, 2013.  
+ - Brown, Peter. *The Wild Robot.* First edition, Little, Brown and Company, 2016.  
+ - Herron, Mick. *Real Tigers.* Soho Crime, 2016.  
