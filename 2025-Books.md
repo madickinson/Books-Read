@@ -2,3 +2,4 @@
  - Herron, Mick. *Dead Lions.* Soho Crime, an imprint of Soho Press Inc, 2013.  
  - Brown, Peter. *The Wild Robot.* First edition, Little, Brown and Company, 2016.  
  - Herron, Mick. *Real Tigers.* Soho Crime, 2016.  
+ - Herron, Mick. *Standing by the Wall : The Collected Slough House Novellas.* Soho Crime, 2022.  
