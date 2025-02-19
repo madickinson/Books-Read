@@ -3,3 +3,4 @@
  - Brown, Peter. *The Wild Robot.* First edition, Little, Brown and Company, 2016.  
  - Herron, Mick. *Real Tigers.* Soho Crime, 2016.  
  - Herron, Mick. *Standing by the Wall : The Collected Slough House Novellas.* Soho Crime, 2022.  
+ - Herron, Mick. *Spook Street.* Soho Crime, 2017.  
