@@ -4,3 +4,4 @@
  - Herron, Mick. *Real Tigers.* Soho Crime, 2016.  
  - Herron, Mick. *Standing by the Wall : The Collected Slough House Novellas.* Soho Crime, 2022.  
  - Herron, Mick. *Spook Street.* Soho Crime, 2017.  
+ - Herron, Mick. *Slough House. 05 : London Rules.* Soho Crime, 2018.  
