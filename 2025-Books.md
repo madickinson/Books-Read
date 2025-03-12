@@ -5,3 +5,4 @@
  - Herron, Mick. *Standing by the Wall : The Collected Slough House Novellas.* Soho Crime, 2022.  
  - Herron, Mick. *Spook Street.* Soho Crime, 2017.  
  - Herron, Mick. *Slough House. 05 : London Rules.* Soho Crime, 2018.  
+ - Herron, Mick. *Joe Country.* Soho Press, Inc., 2019.  
