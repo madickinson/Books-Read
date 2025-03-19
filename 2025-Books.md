@@ -6,3 +6,4 @@
  - Herron, Mick. *Spook Street.* Soho Crime, 2017.  
  - Herron, Mick. *Slough House. 05 : London Rules.* Soho Crime, 2018.  
  - Herron, Mick. *Joe Country.* Soho Press, Inc., 2019.  
+ - Herron, Mick. *Slough House.* Soho Crime, 2021.  
