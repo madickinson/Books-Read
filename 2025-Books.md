@@ -9,3 +9,4 @@
  - Herron, Mick. *Slough House.* Soho Crime, 2021.  
  - Saint-Exupéry, Antoine de. *The Little Prince.*, Translated by Richard Howard, First edition, Harcourt, 1943.  
  - Bryson, Bill. *Shakespeare : The World as Stage.* 1st ed, Atlas Books/HarperCollins, 2007.  
+ - Herron, Mick. *Bad Actors.* Soho Crime, 2022.  
