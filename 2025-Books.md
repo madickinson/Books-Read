@@ -10,3 +10,4 @@
  - Saint-Exupéry, Antoine de. *The Little Prince.*, Translated by Richard Howard, First edition, Harcourt, 1943.  
  - Bryson, Bill. *Shakespeare : The World as Stage.* 1st ed, Atlas Books/HarperCollins, 2007.  
  - Herron, Mick. *Bad Actors.* Soho Crime, 2022.  
+ - Herbert, Frank, and Brian Herbert. *Dune Messiah.* Ace trade paperback edition, Ace, 1969.  
