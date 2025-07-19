@@ -11,3 +11,4 @@
  - Bryson, Bill. *Shakespeare : The World as Stage.* 1st ed, Atlas Books/HarperCollins, 2007.  
  - Herron, Mick. *Bad Actors.* Soho Crime, 2022.  
  - Herbert, Frank, and Brian Herbert. *Dune Messiah.* Ace trade paperback edition, Ace, 1969.  
+ - Bryson, Bill. *A Short History of Nearly Everything : Special Illustrated Edition.* Broadway Books, 2005.  
