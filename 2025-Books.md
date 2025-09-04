@@ -12,3 +12,4 @@
  - Herron, Mick. *Bad Actors.* Soho Crime, 2022.  
  - Herbert, Frank, and Brian Herbert. *Dune Messiah.* Ace trade paperback edition, Ace, 1969.  
  - Bryson, Bill. *A Short History of Nearly Everything : Special Illustrated Edition.* Broadway Books, 2005.  
+ - Ryrie, Alec, et al. *Christianity a Historical Atlas.* The Belknap Press of Harvard University Press, 2020.  
