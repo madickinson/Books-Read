@@ -15,3 +15,4 @@
  - Ryrie, Alec, et al. *Christianity a Historical Atlas.* The Belknap Press of Harvard University Press, 2020.  
  - Miller, Walter M., and Mary Doria Russell. *A Canticle for Leibowitz.* First Eos paperback edition, Eos, 1959.  
  - Enns, Peter. *The Bible Tells Me So: Why Defending Scripture Has Made Us Unable to Read It.* FIRST edition, HarperOne, 2014.  
+ - Asimov, Isaac. *Foundation.* Bantam trade pbk. ed, Bantam Spectra Books, 2008.  
