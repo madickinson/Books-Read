@@ -16,5 +16,6 @@
  - Miller, Walter M., and Mary Doria Russell. *A Canticle for Leibowitz.* First Eos paperback edition, Eos, 1959.  
  - Enns, Peter. *The Bible Tells Me So: Why Defending Scripture Has Made Us Unable to Read It.* FIRST edition, HarperOne, 2014.  
  - Asimov, Isaac. *Foundation.* Bantam trade pbk. ed, Bantam Spectra Books, 2008.  
- - Herron, Mick. *Clown Town.* Soho Crime, 2025.
+ - Herron, Mick. *Clown Town.* Soho Crime, 2025.    
+ - *Dickens, Charles. A Christmas Carol and Other Stories.* [ed.] Robert Douglas-Fairhurst. s.l. : Oxford University Press, 2018. p. 496. 9780198822394.  
     
