@@ -1,2 +1,3 @@
  - Kelly, Joseph Francis. *The Origins of Christmas.* United States, Liturgical Press, 2004.  
  - *Qntm. There Is No Antimemetics Division. [publisher not identified], 2021.*  
+ - Wels, Susan. *An Assassin in Utopia : The True Story of a Nineteenth-Century Sex Cult and a President’s Murder.* First Pegasus Books cloth edition, Pegasus Books, 2023.  
