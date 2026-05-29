@@ -5,4 +5,5 @@
  - Kugel, James L. *How to Read the Bible : A Guide to Scripture, Then and Now.* 1st Free Press trade pbk. ed, Free Press, 2007.  
  - Gallagher, Winifred. *How the Post Office Created America : A History.* Penguin Press, 2016.  
  - Hox, Joe, and Richard Adams. *Watership down : The Graphic Novel.* , Illustrated by James Sturm and Joe Sutphin, First graphic edition, Ten Speed Graphic, an imprint of Ten Speed Press, 2023.  
+ - Martin, Karen, and Mike Osterling. *Value Stream Mapping : How to Visualize Work and Align Leadership for Organizational Transformation.* McGraw-Hill, 2014.  
   
