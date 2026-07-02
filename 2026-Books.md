@@ -7,4 +7,5 @@
  - Hox, Joe, and Richard Adams. *Watership down : The Graphic Novel.* , Illustrated by James Sturm and Joe Sutphin, First graphic edition, Ten Speed Graphic, an imprint of Ten Speed Press, 2023.  
  - Martin, Karen, and Mike Osterling. *Value Stream Mapping : How to Visualize Work and Align Leadership for Organizational Transformation.* McGraw-Hill, 2014.  
  - Daniel, Douglass K. *Kill - Do Not Release : Censored Marine Corps Stories from World War II.* First edition, Fordham University Press, 2025.  
+ - Tobin, Paul, et al. *The Witcher Omnibus. Volume One.* First standard edition, Dark Horse Books, 2020.  
   
