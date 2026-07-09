@@ -10,6 +10,6 @@
  - Tobin, Paul, et al. *The Witcher Omnibus. Volume One.* First standard edition, Dark Horse Books, 2020.  
  - Mignola, Mike, et al. *Baltimore Omnibus. Volume One.* First edition, Dark Horse Books, 2019.  
  - Mignola, Michael, et al. *Baltimore Omnibus. Volume Two.* Dark Horse Books, 2023.      
- - Goodwin, Archie, et al. *Alien : The Illustrated Story.* First Titan edition, Titan Books, 1979.  
+ - Goodwin, Archie, et al. *Alien: The Illustrated Story.* First Titan edition, Titan Books, 1979.  
 
   
