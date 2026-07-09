@@ -8,4 +8,6 @@
  - Martin, Karen, and Mike Osterling. *Value Stream Mapping : How to Visualize Work and Align Leadership for Organizational Transformation.* McGraw-Hill, 2014.  
  - Daniel, Douglass K. *Kill - Do Not Release : Censored Marine Corps Stories from World War II.* First edition, Fordham University Press, 2025.  
  - Tobin, Paul, et al. *The Witcher Omnibus. Volume One.* First standard edition, Dark Horse Books, 2020.  
+ - Mignola, Mike, et al. *Baltimore Omnibus. Volume One.* First edition, Dark Horse Books, 2019.  
+ - Mignola, Michael, et al. *Baltimore Omnibus. Volume Two.* Dark Horse Books, 2023.    
   
