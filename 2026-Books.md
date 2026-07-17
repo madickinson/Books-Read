@@ -12,5 +12,6 @@
  - Mignola, Michael, et al. *Baltimore Omnibus. Volume Two.* Dark Horse Books, 2023.      
  - Goodwin, Archie, et al. *Alien: The Illustrated Story.* First Titan edition, Titan Books, 1979.  
  - Snyder, Scott, et al. *Absolute Batman. Vol. 1, the Zoo.* DC Comics, 2025.  
+ - Snyder, Scott, et al. *Absolute Batman. Vol. 2, Abomination.* DC Comics, 2026.  
 
   
