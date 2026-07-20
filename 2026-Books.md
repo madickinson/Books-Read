@@ -14,5 +14,6 @@
  - Snyder, Scott, et al. *Absolute Batman. Vol. 1, the Zoo.* DC Comics, 2025.  
  - Snyder, Scott, et al. *Absolute Batman. Vol. 2, Abomination.* DC Comics, 2026.  
  - Hickman, Jonathan, and Nick Dragotta. *East of West. Volume 1, [the Promise].* Image Comics, 2013.  
+ - Aaron, Jason, et al. *Absolute Superman. Vol. 1, Last Dust of Krypton.* DC Comics, 2025.  
 
   
