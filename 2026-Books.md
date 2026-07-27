@@ -16,5 +16,6 @@
  - Hickman, Jonathan, and Nick Dragotta. *East of West. Volume 1, [the Promise].* Image Comics, 2013.  
  - Aaron, Jason, et al. *Absolute Superman. Vol. 1, Last Dust of Krypton.* DC Comics, 2025.  
  - Mayor, Adrienne. *Mythopedia: A Brief Compendium of Natural History Lore.* , Illustrated by Michele M. Angel, Princeton University Press, 2025.  
+ - Aaron, Jason, et al. *Absolute Superman. Vol. 2, Son of the Demon.* DC Comics, 2026.  
 
   
