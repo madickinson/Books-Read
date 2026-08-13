@@ -18,6 +18,8 @@
  - Mayor, Adrienne. *Mythopedia: A Brief Compendium of Natural History Lore.* , Illustrated by Michele M. Angel, Princeton University Press, 2025.  
  - Aaron, Jason, et al. *Absolute Superman. Vol. 2, Son of the Demon.* DC Comics, 2026.  
  - Hickman, Jonathan, et al. *East of West. Vol. 2, We Are All One.* Image Comics, 2014.  
+ - Tolkien, J. R. R. *The Hobbit, or, There and Back Again.* First Mariner books edition, 75th anniversary edition, Mariner Books, Houghton Mifflin Harcourt, 1995.  
+  
   
 
   
