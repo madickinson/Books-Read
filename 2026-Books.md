@@ -19,6 +19,7 @@
  - Aaron, Jason, et al. *Absolute Superman. Vol. 2, Son of the Demon.* DC Comics, 2026.  
  - Hickman, Jonathan, et al. *East of West. Vol. 2, We Are All One.* Image Comics, 2014.  
  - Tolkien, J. R. R. *The Hobbit, or, There and Back Again.* First Mariner books edition, 75th anniversary edition, Mariner Books, Houghton Mifflin Harcourt, 1995.  
+ - Doctorow, Cory. *Enshittification : Why Everything Suddenly Got Worse and What to Do About It.* First edition, MCD / Farrar, Straus and Giroux, 2025.  
   
   
 
