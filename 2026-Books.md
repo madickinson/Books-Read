@@ -21,6 +21,7 @@
  - Tolkien, J. R. R. *The Hobbit, or, There and Back Again.* First Mariner books edition, 75th anniversary edition, Mariner Books, Houghton Mifflin Harcourt, 1995.  
  - Doctorow, Cory. *Enshittification : Why Everything Suddenly Got Worse and What to Do About It.* First edition, MCD / Farrar, Straus and Giroux, 2025.  
  - Tolkien, J.R.R. *The Fellowship of the Ring: Being the First Part of the Lord of the Rings.* HarperCollins, 2012.  
+ - Doctorow, Cory. *The Reverse Centaur’s Guide to Life after AI : How to Think About Artificial Intelligence--before It’s Too Late.* First edition, MCD, Farrar, Straus and Giroux, 2026.  
   
   
 
