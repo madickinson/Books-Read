@@ -22,6 +22,9 @@
  - Doctorow, Cory. *Enshittification : Why Everything Suddenly Got Worse and What to Do About It.* First edition, MCD / Farrar, Straus and Giroux, 2025.  
  - Tolkien, J.R.R. *The Fellowship of the Ring: Being the First Part of the Lord of the Rings.* HarperCollins, 2012.  
  - Doctorow, Cory. *The Reverse Centaur’s Guide to Life after AI : How to Think About Artificial Intelligence--before It’s Too Late.* First edition, MCD, Farrar, Straus and Giroux, 2026.  
+ - Tolkien, John Ronald Reuel. *The Lord of the Rings. Part Two, the Two Towers.* Mariner, 2012.  
+ - Snyder, Scott, et al. *Absolute Batman. Vol. 3, Devil’s Workshop.* DC Comics, 2026.  
+ - Snyder, Scott, et al. *The Batman Who Laughs.* , Illustrated by Sal Cipriano, DC Comics, 2021.  
   
   
 
