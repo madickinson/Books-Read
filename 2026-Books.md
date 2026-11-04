@@ -25,6 +25,7 @@
  - Tolkien, John Ronald Reuel. *The Lord of the Rings. Part Two, the Two Towers.* Mariner, 2012.  
  - Snyder, Scott, et al. *Absolute Batman. Vol. 3, Devil’s Workshop.* DC Comics, 2026.  
  - Snyder, Scott, et al. *The Batman Who Laughs.* , Illustrated by Sal Cipriano, DC Comics, 2021.  
+ - Hickman, Jonathan, et al. *Pax Romana.* Image Comics, 2013.  
   
   
 
